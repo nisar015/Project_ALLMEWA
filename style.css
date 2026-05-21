@@ -8,3 +8,6 @@ body{
     font-size: 13px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+#h1group{
+    float: left;
+}
