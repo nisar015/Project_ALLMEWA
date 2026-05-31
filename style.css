@@ -11,6 +11,15 @@ body{
 #h1group ul li{
     display: inline-block;
 }
+#h1group{
+    padding: 4px;
+}
 .h1_start{
     margin-left: 25px;
+}
+.h1_space{
+    margin-left: 550px;
+}
+.line{
+    margin: 0 3px;
 }
