@@ -11,4 +11,6 @@ body{
 #h1group ul li{
     display: inline-block;
 }
-.part1
+.h1_a{
+    margin-left: 25px;
+}
