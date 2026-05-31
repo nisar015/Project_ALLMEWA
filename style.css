@@ -23,3 +23,11 @@ body{
 .line{
     margin: 0 3px;
 }
+#header2{
+    color: black;
+    background-color: white;
+}
+#header2 #h2group{
+    width: 1260px;
+    margin: 0 auto;
+}
