@@ -26,8 +26,25 @@ body{
 #header2{
     color: black;
     background-color: white;
+    overflow: auto;
 }
 #header2 #h2group{
     width: 1260px;
     margin: 0 auto;
+}
+#logo_name{
+    float: left;
+}
+#h2group h2{
+    color: green;
+        font-size: 32px;
+    font-family: sans-serif;
+}
+#h2group p{
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+#h2group a{
+    color: orangered;
 }
