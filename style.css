@@ -48,3 +48,28 @@ body{
 #h2group a{
     color: orangered;
 }
+#h2group nav {
+    float: left;
+    margin: 0 0 0 80px;
+}
+#h2group nav ul{
+        list-style: none;
+    padding: 30px;
+}
+#h2group nav ul li{
+    display: inline-block;
+    margin: 0 20px 0 0;
+}
+#h2group nav .lst{
+    margin-right: 0px;
+}
+#h2group button{
+        padding: 4px;
+    margin: 25px 0px 5px 0;
+}
+#h2group nav ul li a{
+    outline: none;
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+}
