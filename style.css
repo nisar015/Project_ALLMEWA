@@ -66,6 +66,8 @@ body{
 #h2group button{
         padding: 4px;
     margin: 25px 0px 5px 0;
+        background: red;
+    color: white;
 }
 #h2group nav ul li a{
     outline: none;
