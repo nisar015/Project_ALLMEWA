@@ -28,50 +28,63 @@ body{
     background-color: white;
     overflow: auto;
 }
-#header2 #h2group{
+/* #header2 #h2group{
     width: 1260px;
     margin: 0 auto;
-}
+} */
 #logo_name{
     float: left;
 }
-#h2group h2{
+#logo_name img{
+        width: 255px;
+    margin-left: 35px;
+}
+#header2 h2{
     color: green;
         font-size: 32px;
     font-family: sans-serif;
 }
-#h2group p{
+#header2 p{
     font-size: 12px;
     font-family: sans-serif;
     font-weight: bold;
 }
-#h2group a{
+#header2 a{
     color: orangered;
 }
-#h2group nav {
+#header2 nav {
     float: left;
-    margin: 0 0 0 80px;
+    margin: 0 0 0 81px;
 }
-#h2group nav ul{
+#header2 nav ul{
         list-style: none;
-    padding: 30px;
+    padding: 41px;
 }
-#h2group nav ul li{
+#header2 nav ul li{
     display: inline-block;
-    margin: 0 20px 0 0;
+    margin: 0 30px 0 0;
 }
-#h2group nav .lst{
-    margin-right: 0px;
-}
-#h2group button{
-        padding: 4px;
-    margin: 25px 0px 5px 0;
-        background: red;
+#header2 button a{
     color: white;
+    background-color: red;
+    outline: none;
+    text-decoration: none;
 }
-#h2group nav ul li a{
+#header2 button{
+           /* padding: 6px; */
+    margin: 33px 0px 6px 0;
+    background: red;
+    color: white;
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 7px 15px 6px 15px;
+}
+#header2 nav ul li a{
     outline: none;
     text-decoration: none;
     color: black;
+    
     font-size: medium;
+    font-family: sans-serif;
+    font-weight: normal;
 }
