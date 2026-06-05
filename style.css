@@ -126,7 +126,7 @@ body {
 #hon_mem #section1 {
     width: 800px;
     float: left;
-    margin-right: 70px;
+    margin-right: 60px;
 }
 
 #section1 h3 {
@@ -156,7 +156,7 @@ body {
 }
 
 #hon_mem #section2 {
-    width: 394px;
+    width: 460px;
     float: left;
     color: black;
     background-color: white;
