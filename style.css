@@ -156,10 +156,12 @@ body {
 }
 
 #hon_mem #section2 {
-    width: 393px;
+    width: 394px;
     float: left;
     color: black;
     background-color: white;
+     box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.15);
+
 }
 
 #section2 article {
