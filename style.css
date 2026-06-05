@@ -138,7 +138,7 @@ body {
 }
 
 #hon_mem #section1 article {
-    width: 190px;
+    width: 192px;
     float: left;
     /* border: 1px solid whitesmoke; */
     margin: 4px;
@@ -147,7 +147,7 @@ body {
 }
 
 #hon_mem #section1 article figure img {
-    width: 100px;
+    width: 91px;
     float: left;
     border: 1px solid whitesmoke;
     padding: 2px;
