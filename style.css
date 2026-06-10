@@ -218,3 +218,10 @@ body {
     background: darkgreen;
     border-radius: 5px;
 }
+#container #categories{
+    width: 1430px;
+}
+#categories article{
+    width: 238px;
+    float: left;
+}
