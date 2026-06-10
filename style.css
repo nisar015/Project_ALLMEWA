@@ -140,7 +140,7 @@ body {
 #section1 article figure figcaption button {
     border-radius: 4px;
     font-size: 11px;
-    padding: 2px;
+    padding: 3px;
     color: white;
     background: darkgreen;
 }
@@ -180,8 +180,8 @@ body {
     font-size: 9px;
     margin: 17px 0;
 }
-#hon_mem #section1 #CM{
- margin: 13px 0;
+#hon_mem #section1 .CM{
+ margin: 12px 0;
 }
 #hon_mem #section2 {
     width: 460px;
