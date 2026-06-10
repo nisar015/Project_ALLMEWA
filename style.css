@@ -220,6 +220,9 @@ body {
 }
 #container #categories{
     width: 1430px;
+    margin: 0 auto;
+        background: white;
+    overflow: auto;
 }
 #categories article{
     width: 238px;
