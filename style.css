@@ -234,16 +234,16 @@ body {
 }
 #categories article figcaption{
         float: right;
-    width: 165px;
+    width: 160px;
 }
 #categories article figcaption h3{
     color: darkgreen;
     font-weight: bold;
     font-family: sans-serif;
 }
-#categories article figcaption p{
+/* #categories article figcaption p{
     line-height: 1.5em;
-}
+} */
 #categories article figcaption a{
     color: darkgreen;
     padding: 2px;
