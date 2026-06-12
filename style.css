@@ -249,4 +249,7 @@ body {
     color: darkgreen;
     padding: 2px;
     font-size: 12px;
+    outline: none;
+    text-decoration: none;
+    font-weight: bold;
 }
