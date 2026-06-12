@@ -228,3 +228,24 @@ body {
     width: 238px;
     float: left;
 }
+#categories article figure img{
+    width: 65px;
+    float: left;
+}
+#categories article figcaption{
+        float: right;
+    width: 165px;
+}
+#categories article figcaption h3{
+    color: darkgreen;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+#categories article figcaption p{
+    line-height: 1.5em;
+}
+#categories article figcaption a{
+    color: darkgreen;
+    padding: 2px;
+    font-size: 12px;
+}
