@@ -121,7 +121,7 @@ body {
     width: 1430px;
     margin: 0 auto;
     overflow: auto;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 #hon_mem #section1 {
@@ -221,14 +221,16 @@ body {
 }
 #container #categories{
     width: 1430px;
+    
+    height: 120px;
     margin: 0 auto;
         background: white;
     overflow: auto;
 }
 #categories article{
     width: 225px;
-    height: 120px;
     float: left;
+    margin-top: 5px;
     box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.15);
     margin-right: 10px;
 }
