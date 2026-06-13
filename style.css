@@ -231,11 +231,12 @@ body {
     box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.15);
 }
 #categories article figure img{
-    width: 65px;
+    width: 60px;
     float: left;
+        margin-right: 8px;
 }
 #categories article figcaption{
-        float: right;
+        float: left;
     width: 160px;
 }
 #categories article figcaption h3{
