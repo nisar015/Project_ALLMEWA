@@ -242,10 +242,12 @@ body {
     color: darkgreen;
     font-weight: bold;
     font-family: sans-serif;
+    margin-bottom: 5px;
 }
-/* #categories article figcaption p{
-    line-height: 1.5em;
-} */
+#categories article figcaption p{
+    line-height: 1.4em;
+    margin-bottom: 5px;
+}
 #categories article figcaption a{
     color: darkgreen;
     padding: 2px;
