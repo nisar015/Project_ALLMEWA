@@ -233,12 +233,12 @@ body {
 #categories article figure img{
     width: 40px;
     float: left;
-        margin-right: 8px;
+        /* margin-right: 8px; */
 }
-/* #categories article figcaption{
-        float: left;
-    width: 160px;
-} */
+#categories article figcaption{
+        float: right;
+    width: 170px;
+}
 #categories article figcaption h3{
     color: darkgreen;
     font-weight: bold;
