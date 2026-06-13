@@ -152,6 +152,7 @@ body {
     /* border: 1px solid whitesmoke; */
     margin: 4px;
     box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.15);
+    border-radius: 7px;
 
 }
 
@@ -233,7 +234,23 @@ body {
         padding: 5px 5px 5px 5px;
     box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.15);
     margin-right: 10px;
+    border-radius: 7px;
     
+}
+#categories #a{
+    background-color: #E8F5E9;
+}
+#categories #b{
+    background-color: #E3F2FD;
+}
+#categories #c{
+    background-color: #FFF8E1;
+}
+#categories #d{
+    background-color: #FCE4EC;
+}
+#categories #e{
+    background-color: #F1F8E9;
 }
 
 #categories article figure img{
@@ -266,4 +283,6 @@ body {
 }
 #categories article.last{
     padding-bottom: 22px;
+     background-color: #FFF3E0;
+}
 }
