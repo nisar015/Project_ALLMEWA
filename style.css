@@ -263,3 +263,6 @@ body {
     text-decoration: none;
     font-weight: bold;
 }
+#categories article.last{
+    padding-bottom: 22px;
+}
