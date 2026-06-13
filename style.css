@@ -150,7 +150,8 @@ body {
     width: 210px;
     float: left;
     /* border: 1px solid whitesmoke; */
-    margin: 4px;
+    padding: 4px;
+    /* margin: 4px; */
     box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.15);
     border-radius: 7px;
 
@@ -187,7 +188,7 @@ body {
  margin: 12px 0;
 }
 #hon_mem #section2 {
-    width: 460px;
+    width: 480px;
     float: left;
     color: black;
     background-color: white;
@@ -285,4 +286,4 @@ body {
     padding-bottom: 22px;
      background-color: #FFF3E0;
 }
-}
+
