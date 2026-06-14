@@ -269,6 +269,7 @@ body {
     font-weight: bold;
     font-family: sans-serif;
     margin-bottom: 5px;
+        padding: 12px 0 0 0;
 }
 #categories article figcaption p{
     line-height: 1.4em;
@@ -276,11 +277,12 @@ body {
 }
 #categories article figcaption a{
     color: darkgreen;
-    padding: 2px;
+    /* padding: 2px; */
     font-size: 12px;
     outline: none;
     text-decoration: none;
     font-weight: bold;
+        padding: 3px 0 9px 0;
 }
 #categories article.last{
     padding-bottom: 22px;
