@@ -288,4 +288,19 @@ body {
     padding-bottom: 22px;
      background-color: #FFF3E0;
 }
-
+#section_last{
+    width: 1430px;
+    margin: 0 auto;
+}
+#container #section_last section{
+    width: 460px;
+    line-height: 1.8em;
+}
+#container #section_last section article{
+    width: 370px;
+    float: left;
+}
+#section_last section sidebar{
+    display: inline-block;
+    width: 60px;
+}
