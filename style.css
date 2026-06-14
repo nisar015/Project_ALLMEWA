@@ -228,6 +228,7 @@ body {
     margin: 0 auto;
         background: white;
     overflow: auto;
+    margin-bottom: 10px;
 }
 #categories article{
     width: 215px;
