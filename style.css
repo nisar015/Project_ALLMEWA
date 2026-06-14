@@ -296,11 +296,11 @@ body {
     width: 460px;
     line-height: 1.8em;
 }
-#container #section_last section article{
+#container #section_last #news{
     width: 370px;
     float: left;
 }
-#section_last section sidebar{
+#section_last #sidebar{
     display: inline-block;
     width: 60px;
 }
