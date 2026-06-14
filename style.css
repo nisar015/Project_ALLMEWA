@@ -295,10 +295,18 @@ body {
 #container #section_last section{
     width: 460px;
     line-height: 1.8em;
+        padding: 10px;
+        box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.15);
+ 
+
 }
 #container #section_last #news{
     width: 370px;
     float: left;
+}
+#section_last #news h2{
+        color: darkgreen;
+    font-family: sans-serif;
 }
 #section_last #sidebar{
     display: inline-block;
