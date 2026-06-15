@@ -313,7 +313,7 @@ body {
     display: inline-block;
     width: 60px;
 }
-#sidebar .button{
+.button{
     border: 1px solid lightgrey;
     border-radius: 6px;
     padding: 1px 6px 1px 5px;
@@ -327,6 +327,7 @@ body {
 #h2_button h2{
     float: left;
     margin-right: 180px;
+    color: darkgreen;
 }
 #section_last{
     overflow: auto;
