@@ -293,7 +293,7 @@ body {
     width: 1430px;
     margin: 0 auto;
 }
-#container #section_last section{
+#container #section_last #news_updates{
     width: 460px;
     line-height: 1.8em;
         padding: 10px;
