@@ -327,8 +327,8 @@ body {
 
 #section_last #gallery{
         float: left;
-    width: 470px;
+    width: 460px;
 }
 #section_last #gallery figure img{
-    width: 470px;
+    width: 130px;
 }
