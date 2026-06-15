@@ -329,4 +329,6 @@ body {
         float: left;
     width: 470px;
 }
-#section_last #gallery
+#section_last #gallery figure img{
+    width: 470px;
+}
