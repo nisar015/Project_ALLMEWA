@@ -313,3 +313,10 @@ body {
     display: inline-block;
     width: 60px;
 }
+#sidebar button{
+    border: 1px solid lightgrey;
+    border-radius: 6px;
+    padding: 1px 6px 1px 5px;
+    color: black;
+    background: white;
+    font-family: sans-serif;}
