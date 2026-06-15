@@ -321,6 +321,13 @@ body {
     background: white;
     font-family: sans-serif;
 }
+#h2_button{
+    overflow: auto;
+}
+#h2_button h2{
+    float: left;
+    margin-right: 180px;
+}
 #section_last{
     overflow: auto;
 }
