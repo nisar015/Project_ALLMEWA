@@ -296,7 +296,7 @@ body {
 #container #section_last #news_updates{
     width: 460px;
     line-height: 1.8em;
-        padding: 10px;
+        padding: 6px;
         box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.15);
  float: left;
 
@@ -305,7 +305,7 @@ body {
     width: 370px;
     float: left;
 }
-#section_last #news h2{
+#section_last #news h3{
         color: darkgreen;
     font-family: sans-serif;
 }
@@ -337,6 +337,7 @@ body {
 #section_last #gallery{
     float: left;
     width: 460px;
+    padding: 20px;
     box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.15);
 }
 #section_last #gallery img{
