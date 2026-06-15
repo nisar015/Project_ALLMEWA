@@ -328,6 +328,7 @@ body {
     float: left;
     margin-right: 180px;
     color: darkgreen;
+    font-family: sans-serif;
 }
 #section_last{
     overflow: auto;
