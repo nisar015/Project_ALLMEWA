@@ -404,8 +404,9 @@ body {
 #sideba #VA{
     color: black;
     background-color: white;
+    padding: 4px;
 }
-#sideba button{
+#sideba .b{
     border: 1px solid lightgrey;
     border-radius: 6px;
     padding: 4px;
