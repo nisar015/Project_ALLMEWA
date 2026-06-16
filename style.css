@@ -172,7 +172,7 @@ body {
     width: 95px;
 }
 
-#hon_mem #section1 article h4{
+#hon_mem #section1 article h4 {
     font-family: sans-serif;
     /* font-weight: bold; */
     margin-top: 10px;
@@ -184,9 +184,11 @@ body {
     margin: 17px 0;
     font-weight: bold;
 }
-#hon_mem #section1 .CM{
- margin: 12px 0;
+
+#hon_mem #section1 .CM {
+    margin: 12px 0;
 }
+
 #hon_mem #section2 {
     width: 480px;
     float: left;
@@ -221,101 +223,119 @@ body {
     background: darkgreen;
     border-radius: 5px;
 }
-#container #categories{
+
+#container #categories {
     width: 1430px;
-    
+
     height: 120px;
     margin: 0 auto;
-        background: white;
+    background: white;
     overflow: auto;
     margin-bottom: 10px;
 }
-#categories article{
+
+#categories article {
     width: 215px;
     float: left;
-        padding: 3px;
+    padding: 3px;
     box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.15);
     margin-right: 17px;
     border-radius: 7px;
-    
+
 }
-#categories #a{
+
+#categories #a {
     background-color: #E8F5E9;
 }
-#categories #b{
+
+#categories #b {
     background-color: #E3F2FD;
 }
-#categories #c{
+
+#categories #c {
     background-color: #FFF8E1;
 }
-#categories #d{
+
+#categories #d {
     background-color: #FCE4EC;
 }
-#categories #e{
+
+#categories #e {
     background-color: #F1F8E9;
 }
 
-#categories article figure img{
+#categories article figure img {
     width: 45px;
     float: left;
     padding: 15px 0 0 3px;
-        /* margin-right: 8px; */
+    /* margin-right: 8px; */
 }
-#categories article figcaption{
-        float: right;
+
+#categories article figcaption {
+    float: right;
     width: 160px;
 }
-#categories article figcaption h4{
+
+#categories article figcaption h4 {
     color: darkgreen;
     font-weight: bold;
     font-family: sans-serif;
     margin-bottom: 5px;
-        padding: 12px 0 0 0;
+    padding: 12px 0 0 0;
 }
-#categories article figcaption p{
+
+#categories article figcaption p {
     line-height: 1.4em;
     margin-bottom: 5px;
 }
-#categories article figcaption a{
+
+#categories article figcaption a {
     color: darkgreen;
     /* padding: 2px; */
     font-size: 12px;
     outline: none;
     text-decoration: none;
     font-weight: bold;
-        padding: 3px 0 9px 0;
+    padding: 3px 0 9px 0;
 }
-#categories article.last{
+
+#categories article.last {
     padding-bottom: 22px;
-     background-color: #FFF3E0;
+    background-color: #FFF3E0;
 }
-#section_last{
+
+#section_last {
     width: 1430px;
     margin: 0 auto;
 }
-#container #section_last #news_updates{
+
+#container #section_last #news_updates {
     width: 460px;
     line-height: 1.8em;
-        padding: 6px;
-        box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.15);
- float: left;
- margin-right: 10px;
+    padding: 6px;
+    box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.15);
+    float: left;
+    margin-right: 10px;
 
 }
-#container #section_last #news{
+
+#container #section_last #news {
     width: 370px;
     float: left;
 }
-#section_last #news h3{
-        color: darkgreen;
+
+#section_last #news h3 {
+    color: darkgreen;
     font-family: sans-serif;
 }
-#section_last #sidebar{
+
+#section_last #sidebar {
     display: inline-block;
     width: 60px;
     padding: 0 0 0 20px;
 }
-.button{
+
+.button {
     border: 1px solid lightgrey;
     border-radius: 6px;
     padding: 1px 6px 1px 5px;
@@ -323,27 +343,32 @@ body {
     background: white;
     font-family: sans-serif;
 }
-#h2_button{
+
+#h2_button {
     overflow: auto;
 }
-#h2_button h3{
+
+#h2_button h3 {
     float: left;
     margin-right: 180px;
     color: darkgreen;
     font-family: sans-serif;
 }
-#section_last{
+
+#section_last {
     overflow: auto;
 }
 
-#section_last #gallery{
+#section_last #gallery {
     float: left;
     width: 460px;
-        padding: 6px 6px 0 6px;
+    padding: 6px 6px 0 6px;
     box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.15);
 }
-#section_last #gallery img{
-    width: 145px;
+
+#section_last #gallery img {
+    width: 135px;
     height: 90px;
-        padding: 16px 3px 18px 3px;
+    padding: 16px 7px 18px 7px;
+    border-radius: 17px;
 }
