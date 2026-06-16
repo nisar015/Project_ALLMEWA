@@ -344,11 +344,11 @@ body {
     font-family: sans-serif;
 }
 
-#h2_button {
+.h2_button {
     overflow: auto;
 }
 
-#h2_button h3 {
+.h2_button h3 {
     float: left;
     margin-right: 180px;
     color: darkgreen;
