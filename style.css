@@ -402,13 +402,14 @@ body {
     margin-bottom: 18px;
 }
 #sideba #VA{
+    color: black;
     background-color: white;
 }
 #sideba button{
     border: 1px solid lightgrey;
     border-radius: 6px;
     padding: 1px 6px 1px 5px;
-    color: black;
+    color: white;
     background: darkgreen;
     font-family: sans-serif;
 }
