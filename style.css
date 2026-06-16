@@ -386,4 +386,5 @@ body {
 }
 #diary_pub #DP_PUB figure figcaption{
     float: left;
+    width: 200px;
 }
