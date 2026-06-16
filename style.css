@@ -378,7 +378,7 @@ body {
 }
 #diary_pub #DP_PUB{
     float: left;
-    width: 235px;
+    width: 220px;
 }
 #diary_pub #DP_PUB figure img{
        width: 35px;
@@ -386,5 +386,5 @@ body {
 }
 #diary_pub #DP_PUB figure figcaption{
     float: left;
-    width: 200px;
+    width: 151px;
 }
