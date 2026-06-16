@@ -372,3 +372,13 @@ body {
     padding: 16px 7px 18px 7px;
     border-radius: 17px;
 }
+#section_last #diary_pub{
+        float: left;
+    width: 320px;
+}
+#diary_pub #DP_PUB{
+    float: left;
+}
+#diary_pub #DP_PUB figure img{
+    width: 30px;
+}
