@@ -394,3 +394,7 @@ body {
 #diary_pub #DP_PUB figure figcaption p{
     font-size: 10px;
 }
+#section_last #diary_pub #sideba{
+    width: 62px;
+    display: inline-block;
+}
