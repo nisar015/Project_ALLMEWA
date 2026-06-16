@@ -388,3 +388,9 @@ body {
     float: left;
     width: 151px;
 }
+#diary_pub #DP_PUB figure figcaption h4{
+    font-family: sans-serif;
+}
+#diary_pub #DP_PUB figure figcaption p{
+    font-size: 10px;
+}
