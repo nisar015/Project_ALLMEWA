@@ -408,8 +408,9 @@ body {
 #sideba button{
     border: 1px solid lightgrey;
     border-radius: 6px;
-    padding: 1px 6px 1px 5px;
+    padding: 4px;
     color: white;
     background: darkgreen;
     font-family: sans-serif;
+    font-size: 10px;
 }
