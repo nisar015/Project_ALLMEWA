@@ -374,7 +374,7 @@ body {
 }
 #section_last #diary_pub{
         float: left;
-    width: 320px;
+    width: 310px;
 }
 #diary_pub #DP_PUB{
     float: left;
@@ -395,6 +395,9 @@ body {
     font-size: 10px;
 }
 #section_last #diary_pub #sideba{
-    width: 62px;
+    width: 65px;
     display: inline-block;
+}
+#section_last #diary_pub #sideba button{
+    margin-bottom: 10px;
 }
