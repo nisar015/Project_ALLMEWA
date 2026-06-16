@@ -378,8 +378,12 @@ body {
 }
 #diary_pub #DP_PUB{
     float: left;
+    width: 235px;
 }
 #diary_pub #DP_PUB figure img{
-    width: 30px;
+       width: 35px;
+    float: left;
+}
+#diary_pub #DP_PUB figure figcaption{
     float: left;
 }
