@@ -399,5 +399,13 @@ body {
     display: inline-block;
 }
 #section_last #diary_pub #sideba button{
-    margin-bottom: 10px;
+    margin-bottom: 18px;
+}
+#sideba button{
+    border: 1px solid lightgrey;
+    border-radius: 6px;
+    padding: 1px 6px 1px 5px;
+    color: black;
+    background: white;
+    font-family: sans-serif;
 }
