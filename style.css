@@ -385,7 +385,7 @@ body {
     float: left;
 }
 #diary_pub #DP_PUB figure figcaption{
-    float: left;
+    /* float: left; */
     width: 151px;
 }
 #diary_pub #DP_PUB figure figcaption h4{
