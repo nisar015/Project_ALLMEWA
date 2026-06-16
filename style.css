@@ -401,11 +401,14 @@ body {
 #section_last #diary_pub #sideba button{
     margin-bottom: 18px;
 }
+#sideba #VA{
+    background-color: white;
+}
 #sideba button{
     border: 1px solid lightgrey;
     border-radius: 6px;
     padding: 1px 6px 1px 5px;
     color: black;
-    background: white;
+    background: darkgreen;
     font-family: sans-serif;
 }
