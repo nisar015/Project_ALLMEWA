@@ -383,6 +383,7 @@ body {
     width: 270px; 
     box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15);
     border-radius: 7px;
+    margin-right: 9px;
 }
 
 #diary_pub #DP_PUB {
@@ -471,7 +472,7 @@ body {
 }
 
 #section_last #members a figure {
-    margin: 4px 14px 3px 15px;
+    margin: 4px 8px 3px 10px;
 }
 
 #section_last #members a figure figcaption h3 {
@@ -479,6 +480,6 @@ body {
 }
 
 #section_last #members a figure figcaption p {
-    font-size: 13px;
-    margin: 0 5px 0 19px;
+        font-size: 11px;
+    margin: 6px 16px 34px 12px;
 }
