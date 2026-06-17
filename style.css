@@ -432,14 +432,12 @@ body {
 }
 
 #sideba #VA {
-    color: black;
-    background-color: white;
-    font-family: sans-serif;
-    font-size: 10px;
     border: 1px solid lightgrey;
     border-radius: 6px;
-
-    padding: 2px 6px 2px 6px;
+    padding: 1px 6px 1px 5px;
+    color: black;
+    background: white;
+    font-family: sans-serif;
 }
 
 #sideba .b {
