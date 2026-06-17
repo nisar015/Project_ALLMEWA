@@ -387,7 +387,8 @@ body {
     font-family: sans-serif;
     /* padding: 5px; */
 }
-#diary_pub #DP_PUB h3{
+
+#diary_pub #DP_PUB h3 {
     font-family: sans-serif;
     color: darkgreen;
     padding: 5px;
@@ -397,7 +398,8 @@ body {
     width: 35px;
     float: left;
 }
-#diary_pub #DP_PUB figure{
+
+#diary_pub #DP_PUB figure {
     padding: 0 0 5px 5px;
 }
 
@@ -444,19 +446,25 @@ body {
     font-family: sans-serif;
     font-size: 10px;
 }
-#section_last #members{
-        float: left;
+
+#section_last #members {
+    float: left;
     width: 180px;
     background: darkgreen;
 }
-#section_last #members a{
+
+#section_last #members a {
     color: white;
     outline: none;
     text-decoration: none;
     font-family: sans-serif;
 }
-#section_last #members a figure img{width: 50px;}
-#section_last #members a figure{
-    
+
+#section_last #members a figure img {
+    width: 50px;
+}
+
+#section_last #members a figure {
+
     margin: 4px 50px 3px 50px;
 }
