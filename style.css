@@ -460,11 +460,17 @@ body {
     font-family: sans-serif;
 }
 
-#section_last #members img {
-    width: 50px;
+#section_last #members a figure img {
+    width: 55px;
+    margin: 2px 45px 0 45px;
 }
 
 #section_last #members a figure {
 
     margin: 4px 50px 3px 50px;
 }
+#section_last #members a figure figcaption h3{
+    font-size: 13px;
+}
+#section_last #members a figure figcaption p{font-size: 13px;
+    margin: 0 5px 0 19px;}
