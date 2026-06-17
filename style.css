@@ -383,16 +383,20 @@ body {
 #diary_pub #DP_PUB {
     float: left;
     width: 220px;
-    padding: 5px;
+    /* padding: 5px; */
 }
 #diary_pub #DP_PUB h3{
     font-family: sans-serif;
     color: darkgreen;
+    padding: 5px;
 }
 
 #diary_pub #DP_PUB figure img {
     width: 35px;
     float: left;
+}
+#diary_pub #DP_PUB figure{
+    padding: 0 0 5px 5px;
 }
 
 #diary_pub #DP_PUB figure figcaption {
