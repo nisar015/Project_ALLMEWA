@@ -400,7 +400,7 @@ body {
 }
 
 #diary_pub #DP_PUB figure {
-    padding: 0 0 5px 5px;
+        padding: 0px 4px 5px 10px;
 }
 
 #diary_pub #DP_PUB figure figcaption {
