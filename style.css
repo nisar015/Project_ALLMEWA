@@ -384,6 +384,7 @@ body {
 #diary_pub #DP_PUB {
     float: left;
     width: 200px;
+    font-family: sans-serif;
     /* padding: 5px; */
 }
 #diary_pub #DP_PUB h3{
@@ -444,10 +445,18 @@ body {
     font-size: 10px;
 }
 #section_last #members{
-    float: left;
+        float: left;
     width: 180px;
     background: darkgreen;
 }
 #section_last #members a{
     color: white;
+    outline: none;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+#section_last #members a figure img{width: 50px;}
+#section_last #members a figure{
+    
+    margin: 4px 50px 3px 50px;
 }
