@@ -318,6 +318,7 @@ body {
     box-shadow: inset 1px 1px 0px 0px rgba(0, 0, 0, 0.15);
      float: left;
     margin-right: 10px;
+    border-radius: 7px;
 
 }
 
@@ -367,6 +368,7 @@ body {
     padding: 6px 6px 0 6px;
     box-shadow: inset 1px 1px 0px 0px rgba(0, 0, 0, 0.15);
    margin-right: 10px;
+    border-radius: 7px;
 }
 
 #section_last #gallery img {
@@ -380,8 +382,7 @@ body {
     float: left;
     width: 270px; 
     box-shadow: inset 1px 1px 0px 0px rgba(0, 0, 0, 0.15);
-   
-
+    border-radius: 7px;
 }
 
 #diary_pub #DP_PUB {
@@ -454,6 +455,7 @@ body {
     float: left;
     width: 180px;
     background: darkgreen;
+    border-radius: 7px;
 }
 
 #section_last #members a {
