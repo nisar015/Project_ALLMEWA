@@ -443,3 +443,8 @@ body {
     font-family: sans-serif;
     font-size: 10px;
 }
+#section_last #members{
+    float: left;
+    width: 165px;
+    background: darkgreen;
+}
