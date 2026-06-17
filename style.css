@@ -448,3 +448,6 @@ body {
     width: 165px;
     background: darkgreen;
 }
+#section_last #members a{
+    color: white;
+}
