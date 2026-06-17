@@ -364,6 +364,7 @@ body {
     width: 460px;
     padding: 6px 6px 0 6px;
     box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.15);
+    margin-right: 10px;
 }
 
 #section_last #gallery img {
@@ -372,44 +373,59 @@ body {
     padding: 16px 7px 18px 7px;
     border-radius: 17px;
 }
-#section_last #diary_pub{
-        float: left;
-    width: 310px;
+
+#section_last #diary_pub {
+    float: left;
+    width: 300px;
+    box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.15);
 }
-#diary_pub #DP_PUB{
+
+#diary_pub #DP_PUB {
     float: left;
     width: 220px;
+    padding: 5px;
 }
-#diary_pub #DP_PUB figure img{
-       width: 35px;
+
+#diary_pub #DP_PUB figure img {
+    width: 35px;
     float: left;
 }
-#diary_pub #DP_PUB figure figcaption{
+
+#diary_pub #DP_PUB figure figcaption {
     /* float: left; */
     width: 151px;
 }
-#diary_pub #DP_PUB figure figcaption h4{
+
+#diary_pub #DP_PUB figure figcaption h4 {
     font-family: sans-serif;
 }
-#diary_pub #DP_PUB figure figcaption p{
+
+#diary_pub #DP_PUB figure figcaption p {
     font-size: 10px;
 }
-#section_last #diary_pub #sideba{
+
+#section_last #diary_pub #sideba {
     width: 65px;
+    padding: 2px;
     display: inline-block;
 }
-#section_last #diary_pub #sideba button{
+
+#section_last #diary_pub #sideba button {
     margin-bottom: 18px;
 }
-#sideba #VA{
+
+#sideba #VA {
     color: black;
     background-color: white;
     font-family: sans-serif;
     font-size: 10px;
     border: 1px solid lightgrey;
     border-radius: 6px;
+
+    padding: 2px 6px 2px 6px;
 }
-#sideba .b{
+
+#sideba .b {
     border: 1px solid lightgrey;
     border-radius: 6px;
     padding: 4px;
