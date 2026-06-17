@@ -387,6 +387,7 @@ body {
 }
 #diary_pub #DP_PUB h3{
     font-family: sans-serif;
+    color: darkgreen;
 }
 
 #diary_pub #DP_PUB figure img {
