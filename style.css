@@ -457,6 +457,9 @@ body {
     width: 180px;
     background: green;
     border-radius: 7px;
+    /* box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15); */
+   
+
 }
 
 #section_last #members a {
