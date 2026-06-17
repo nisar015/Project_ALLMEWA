@@ -302,6 +302,7 @@ body {
 #categories article.last {
     padding-bottom: 22px;
     background-color: #FFF3E0;
+    margin-right: 9px;
 }
 
 #section_last {
