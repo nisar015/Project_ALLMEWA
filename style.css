@@ -428,7 +428,8 @@ body {
 }
 
 #section_last #diary_pub #sideba button {
-    margin-bottom: 18px;
+    margin-bottom: 14px;
+    margin-top: 4px;
 }
 
 #sideba #VA {
