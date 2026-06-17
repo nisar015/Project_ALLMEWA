@@ -202,7 +202,8 @@ body {
 #section2 article {
     margin: 5px 0 0 0;
     padding: 8px;
-    box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.15);
+     box-shadow: inset 1px 1px 0px 0px rgba(0, 0, 0, 0.15);
+   
 }
 
 #section2 article h3 {
@@ -314,8 +315,8 @@ body {
     width: 460px;
     line-height: 1.8em;
     padding: 6px;
-    box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.15);
-    float: left;
+    box-shadow: inset 1px 1px 0px 0px rgba(0, 0, 0, 0.15);
+     float: left;
     margin-right: 10px;
 
 }
@@ -364,8 +365,8 @@ body {
     float: left;
     width: 460px;
     padding: 6px 6px 0 6px;
-    box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.15);
-    margin-right: 10px;
+    box-shadow: inset 1px 1px 0px 0px rgba(0, 0, 0, 0.15);
+   margin-right: 10px;
 }
 
 #section_last #gallery img {
@@ -377,8 +378,10 @@ body {
 
 #section_last #diary_pub {
     float: left;
-    width: 270px;
-    box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.15);
+    width: 270px; 
+    box-shadow: inset 1px 1px 0px 0px rgba(0, 0, 0, 0.15);
+   
+
 }
 
 #diary_pub #DP_PUB {
