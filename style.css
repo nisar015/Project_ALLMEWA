@@ -385,6 +385,9 @@ body {
     width: 220px;
     padding: 5px;
 }
+#diary_pub #DP_PUB h3{
+    font-family: sans-serif;
+}
 
 #diary_pub #DP_PUB figure img {
     width: 35px;
