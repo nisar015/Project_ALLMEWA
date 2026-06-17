@@ -400,7 +400,7 @@ body {
 }
 
 #diary_pub #DP_PUB figure {
-        padding: 0px 4px 5px 10px;
+    padding: 0px 4px 5px 10px;
 }
 
 #diary_pub #DP_PUB figure figcaption {
@@ -453,7 +453,7 @@ body {
     background: darkgreen;
 }
 
-#section_last #members a{
+#section_last #members a {
     color: white;
     outline: none;
     text-decoration: none;
@@ -466,11 +466,14 @@ body {
 }
 
 #section_last #members a figure {
-
     margin: 4px 50px 3px 50px;
 }
-#section_last #members a figure figcaption h3{
+
+#section_last #members a figure figcaption h3 {
     font-size: 13px;
 }
-#section_last #members a figure figcaption p{font-size: 13px;
-    margin: 0 5px 0 19px;}
+
+#section_last #members a figure figcaption p {
+    font-size: 13px;
+    margin: 0 5px 0 19px;
+}
