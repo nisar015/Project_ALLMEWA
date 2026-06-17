@@ -238,7 +238,7 @@ body {
 #categories article {
     width: 215px;
     float: left;
-    /* padding: 19px; */
+    padding-bottom: 10px;vcx
     box-shadow: inset 1px 1px 0px 0px rgba(0, 0, 0, 0.15);
     margin-right: 26px;
     border-radius: 7px;
