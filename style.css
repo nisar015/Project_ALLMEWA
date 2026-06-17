@@ -453,14 +453,14 @@ body {
     background: darkgreen;
 }
 
-#section_last #members a {
+#section_last #members a{
     color: white;
     outline: none;
     text-decoration: none;
     font-family: sans-serif;
 }
 
-#section_last #members a figure img {
+#section_last #members img {
     width: 50px;
 }
 
