@@ -491,11 +491,8 @@ body {
         width: 1430px;
     margin: 0 auto;
 }
-#footer1 #quick_links{
+#footer1 #quick_links, #imp_doc , #contact{
     float: left;
     width: 465px;
     margin: 0 50px;
 }
-#footer1 #imp_doc{float: left;
-    width: 465px;
-    margin: 0 50px;}
