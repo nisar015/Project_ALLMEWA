@@ -330,6 +330,8 @@ body {
 #section_last #news h3 {
     color: darkgreen;
     font-family: sans-serif;
+    margin-top: 4px;
+    margin-left: 2px;
 }
 
 #section_last #sidebar {
