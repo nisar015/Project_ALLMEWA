@@ -491,3 +491,8 @@ body {
         width: 1430px;
     margin: 0 auto;
 }
+#footer1 #quick_links{
+    float: left;
+    width: 465px;
+    margin: 0 50px;
+}
