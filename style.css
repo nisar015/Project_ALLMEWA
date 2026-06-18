@@ -400,6 +400,7 @@ body {
     font-family: sans-serif;
     color: darkgreen;
     padding: 5px;
+    margin-top: 4px;
 }
 
 #diary_pub #DP_PUB figure img {
