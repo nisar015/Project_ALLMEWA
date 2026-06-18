@@ -461,8 +461,6 @@ body {
     background: green;
     border-radius: 7px;
     /* box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15); */
-   
-
 }
 
 #section_last #members a {
@@ -488,4 +486,8 @@ body {
 #section_last #members a figure figcaption p {
         font-size: 11px;
     margin: 6px 16px 34px 12px;
+}
+#footer1{
+        width: 1430px;
+    margin: 0 auto;
 }
