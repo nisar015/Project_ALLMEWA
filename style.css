@@ -13,6 +13,11 @@ body {
 #h1group ul a li {
     display: inline-block;
 }
+#h1group a{
+    color: white;
+    outline: none;
+    text-decoration: none;
+}
 
 #h1group {
     padding: 4px;
