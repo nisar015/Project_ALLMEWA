@@ -523,3 +523,7 @@ body {
     background: black;
     color: white;
 }
+#footer2 p{
+        width: 243px;
+    float: left;
+}
