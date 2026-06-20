@@ -520,6 +520,7 @@ body {
 }
 
 #footer2 {
+    overflow: auto;
     clear: both;
     color: white;
     background: black;
