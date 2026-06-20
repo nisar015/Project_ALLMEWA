@@ -518,12 +518,14 @@ body {
     font-family: sans-serif;
     margin-bottom: 6px;
 }
-#footer2{
+
+#footer2 {
     clear: both;
     background: black;
     color: white;
 }
-#footer2 p{
-        width: 243px;
-    float: left;
+
+#footer2 p {
+    width: 243px;
+    float: left
 }
