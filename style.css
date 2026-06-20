@@ -155,7 +155,7 @@ body {
     padding: 4px;
     margin-right: 7px;
     box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15);
-     border-radius: 7px;
+    border-radius: 7px;
 
 }
 
@@ -204,8 +204,8 @@ body {
 #section2 article {
     margin: 5px 0 0 0;
     padding: 8px;
-     box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15);
-   
+    box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 7px;
 }
 
 #section2 article h3 {
@@ -227,7 +227,7 @@ body {
     border-radius: 5px;
 }
 
-#container #categories{
+#container #categories {
     width: 1430px;
     height: 120px;
     margin: 0 auto;
@@ -317,7 +317,7 @@ body {
     line-height: 1.8em;
     padding: 6px;
     box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15);
-     float: left;
+    float: left;
     margin-right: 10px;
     border-radius: 7px;
 
@@ -359,7 +359,7 @@ body {
     /* margin-right: 244px; */
     color: darkgreen;
     font-family: sans-serif;
-        margin: 4px 244px 0 0;
+    margin: 4px 244px 0 0;
 }
 
 #section_last {
@@ -371,7 +371,7 @@ body {
     width: 460px;
     padding: 6px 6px 0 6px;
     box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15);
-   margin-right: 10px;
+    margin-right: 10px;
     border-radius: 7px;
 }
 
@@ -384,7 +384,7 @@ body {
 
 #section_last #diary_pub {
     float: left;
-    width: 270px; 
+    width: 270px;
     box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15);
     border-radius: 7px;
     margin-right: 9px;
@@ -485,19 +485,24 @@ body {
 }
 
 #section_last #members a figure figcaption p {
-        font-size: 11px;
+    font-size: 11px;
     margin: 6px 16px 34px 12px;
 }
-#footer1{
-        width: 1430px;
+
+#footer1 {
+    width: 1430px;
     margin: 0 auto;
 }
-#footer1 #quick_links,#footer1 #imp_doc ,#footer1 #contact{
+
+#footer1 #quick_links,
+#footer1 #imp_doc,
+#footer1 #contact {
     float: left;
     width: 376px;
     margin: 10px 50px;
 }
-#footer1 ul a{
+
+#footer1 ul a {
     color: white;
     width: 186px;
     display: inline-block;
@@ -508,7 +513,8 @@ body {
     margin: 5px 0 0 0;
     font-family: sans-serif;
 }
-#footer1 #quick_links ul h4{
-        font-family: sans-serif;
+
+#footer1 #quick_links ul h4 {
+    font-family: sans-serif;
     margin-bottom: 4px;
 }
