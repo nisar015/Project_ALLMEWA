@@ -526,7 +526,7 @@ body {
 }
 
 #footer2 p {
-    width: 243px;
+    width: 21%;
     float: left;
-        margin: 0 251px 0 72px;
+    margin: 0 251px 0 0;
 }
