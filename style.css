@@ -10,7 +10,7 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-#h1group ul a li {
+#h1group ul li {
     display: inline-block;
 }
 #h1group ul a{
