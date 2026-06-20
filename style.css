@@ -529,6 +529,7 @@ body {
     clear: both;
     color: white;
     background: black;
+    padding: 4px;
 }
 
 #footer2 p {
