@@ -529,5 +529,9 @@ body {
 #footer2 p {
     width: 21%;
     float: left;
-    margin: 0 251px 0 0;
+    margin: 0px 6px 0 59px;
+}
+
+#footer2 .lst_p {
+    margin: 0 0 0 246px;
 }
