@@ -518,7 +518,10 @@ body {
     font-family: sans-serif;
     margin-bottom: 6px;
 }
-#row2{
+#footer2{
     color: white;
     background: black;
 }
+    clear: both;
+    background: black;
+    color: white;
