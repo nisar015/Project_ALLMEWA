@@ -519,9 +519,7 @@ body {
     margin-bottom: 6px;
 }
 #footer2{
-    color: white;
-    background: black;
-}
     clear: both;
     background: black;
     color: white;
+}
