@@ -555,6 +555,9 @@ body {
         display: block;
         text-align: center;
     }
+    #h1group li.h1_space{
+        margin: 0;
+    }
 
     #header1 #h1group li.line {
         display: none;
