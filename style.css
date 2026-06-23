@@ -13,7 +13,8 @@ body {
 #h1group ul li {
     display: inline-block;
 }
-#h1group ul a{
+
+#h1group ul a {
     color: white;
     outline: none;
     text-decoration: none;
