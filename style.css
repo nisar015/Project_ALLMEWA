@@ -624,4 +624,9 @@ body {
         float: none;
         padding: 0;
     }
+    #hon_mem #section1 article figure figcaption{
+        float: none;
+    width: 40%;
+    margin-left: 122px;
+    }
 }
