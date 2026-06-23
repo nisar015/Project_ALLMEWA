@@ -557,6 +557,7 @@ body {
     }
     #h1group li.h1_space{
         margin: 0;
+        text-align: center;
     }
 
     #header1 #h1group li.line {
