@@ -555,7 +555,8 @@ body {
         display: block;
         text-align: center;
     }
-    #h1group li.h1_space{
+
+    #h1group li.h1_space {
         width: 100%;
         margin: 0;
         text-align: center;
@@ -566,5 +567,10 @@ body {
         margin: 0;
         text-align: center;
         line-height: 1.4em;
+    }
+
+    #logo_name {
+        float: none;
+        width: 100%;
     }
 }
