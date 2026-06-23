@@ -610,4 +610,8 @@ body {
     padding: 0;
     margin-right: 0;
     }
+    section1 article{
+            width: 100%;
+    float: none;
+    }
 }
