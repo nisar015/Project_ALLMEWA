@@ -632,4 +632,7 @@ body {
     #hon_mem #section1 article figure figcaption h4,#hon_mem #section1 article figure figcaption p{
         text-align: center;
     }
+    #hon_mem #section1 article figure figcaption button{
+        margin-left: 46px;
+    }
 }
