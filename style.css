@@ -542,6 +542,18 @@ body {
 #footer2 .lst_p {
     margin: 0 0 0 246px;
 }
+
 @media screen and (max-width:426px) {
-    
+
+    #header1,
+    #container {
+        width: 100%;
+    }
+
+    #h1_group li.line {
+        display: none;
+        margin: 0;
+        text-align: center;
+        line-height: 1.4em;
+    }
 }
