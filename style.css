@@ -550,7 +550,7 @@ body {
         width: 100%;
     }
 
-    #h1_group li.line {
+    #header1 #h1group li.line {
         display: none;
         margin: 0;
         text-align: center;
