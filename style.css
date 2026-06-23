@@ -595,4 +595,7 @@ body {
         width: 40%;
     margin: 5px 0 5px 136px;
     }
+    #hon_mem #section1{
+        width: 100%;
+    }
 }
