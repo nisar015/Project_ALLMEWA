@@ -646,14 +646,21 @@ body {
         float: none;
         padding: 0;
     }
+
     #categories {
         width: 100%;
         float: none;
     }
-    #categories article{
+
+    #categories article {
         width: 50%;
-    float: none;
-    margin: 0;
-    padding: 0;
+        float: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    #categories article figure {
+        width: 30%;
+        float: none;
     }
 }
