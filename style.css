@@ -650,4 +650,10 @@ body {
         width: 100%;
         float: none;
     }
+    #categories article{
+        width: 50%;
+    float: none;
+    margin: 0;
+    padding: 0;
+    }
 }
