@@ -650,12 +650,14 @@ body {
     #container #categories{
         width: 100%;
         float: none;
+        height: 100%;
     }
     #container #categories article{
         width: 50%;
-        float: none;
-        margin: 0;
-        padding: 0;
+        /* float: none; */
+        /* margin: 0; */
+        padding: 2px;
+        margin: 2px;
     }
     #container #categories article figure img{
         width: 30%;
