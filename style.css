@@ -646,4 +646,9 @@ body {
         float: none;
         padding: 0;
     }
+
+    #categories {
+        width: 100%;
+        float: none;
+    }
 }
