@@ -641,35 +641,46 @@ body {
         margin-left: 46px;
     }
 
-    #hon_mem #section2{
+    #hon_mem #section2 {
         width: 100%;
         float: none;
         padding: 0;
     }
 
-    #container #categories{
+    #container #categories {
         width: 100%;
         float: none;
         height: 100%;
     }
-    #container #categories article{
+
+    #container #categories article {
         width: 48%;
         /* float: none; */
         /* margin: 0; */
         padding: 2px;
         margin: 2px;
     }
-    #container #categories article figure img{
+
+    #container #categories article figure img {
         width: 30%;
         float: none;
         margin-left: 60px;
     }
-    #container #categories article figure figcaption{
+
+    #container #categories article figure figcaption {
         width: 100%;
         float: none;
         text-align: center;
     }
-    #section_last{
+
+    #section_last {
         width: 100%;
+    }
+
+    #secton_last #news_updates {
+        width: 100%;
+        float: none;
+        padding: 0;
+        margin: 0;
     }
 }
