@@ -625,15 +625,25 @@ body {
         float: none;
         padding: 0;
     }
-    #hon_mem #section1 article figure figcaption{
+
+    #hon_mem #section1 article figure figcaption {
         float: none;
-    width: 40%;
-    margin-left: 122px;
+        width: 40%;
+        margin-left: 122px;
     }
-    #hon_mem #section1 article figure figcaption h4,#hon_mem #section1 article figure figcaption p{
+
+    #hon_mem #section1 article figure figcaption h4,
+    #hon_mem #section1 article figure figcaption p {
         text-align: center;
     }
-    #hon_mem #section1 article figure figcaption button{
+
+    #hon_mem #section1 article figure figcaption button {
         margin-left: 46px;
+    }
+
+    #hon_mem #section2 {
+        width: 100%;
+        float: none;
+        padding: 0;
     }
 }
