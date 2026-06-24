@@ -647,7 +647,7 @@ body {
         padding: 0;
     }
 
-    #categories {
+    #container #categories {
         width: 100%;
         float: none;
     }
