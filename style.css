@@ -683,4 +683,8 @@ body {
         padding: 0;
         margin: 0;
     }
+    #secton_last #news_updates #news{
+        width: 80%;
+        float: left;
+    }
 }
