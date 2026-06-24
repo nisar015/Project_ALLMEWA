@@ -641,25 +641,23 @@ body {
         margin-left: 46px;
     }
 
-    #hon_mem #section2 {
+    #hon_mem #section2{
         width: 100%;
         float: none;
         padding: 0;
     }
 
-    #container #categories {
+    #container #categories{
         width: 100%;
         float: none;
     }
-
-    #categories article {
+    #container #categories article{
         width: 50%;
         float: none;
         margin: 0;
         padding: 0;
     }
-
-    #categories article figure {
+    #container #categories article figure{
         width: 30%;
         float: none;
     }
