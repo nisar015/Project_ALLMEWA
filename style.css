@@ -180,7 +180,7 @@ body {
     width: 95px;
 }
 
-#hon_mem #section1 article h4 {
+#hon_mem #section1 article figure figcaption h4 {
     font-family: sans-serif;
     /* font-weight: bold; */
     margin-top: 10px;
