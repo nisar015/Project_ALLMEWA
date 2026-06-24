@@ -657,8 +657,12 @@ body {
         margin: 0;
         padding: 0;
     }
-    #container #categories article figure{
+    #container #categories article figure img{
         width: 30%;
+        float: none;
+    }
+    #container #categories article figure figcaption{
+        width: 100%;
         float: none;
     }
 }
