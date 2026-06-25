@@ -678,20 +678,17 @@ body {
     }
 
     #secton_last #news_updates {
-        width: 100%;
-        float: none;
-        padding: 0;
-        margin: 0;
+        width: 98%;
+    float: none;
+    margin-right: 0;
+    padding: 4px;
     }
     #secton_last #news_updates #news{
         width: 80%;
         float: left;
     }
     #section_last #news_updates{
-        width: 98%;
-    float: none;
-    margin-right: 0;
-    padding: 4px;
+        
     }
     #section_last #news_updates #news{
             width: 79%;
