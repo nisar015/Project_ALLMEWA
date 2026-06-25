@@ -544,7 +544,9 @@ body {
 }
 
 @media screen and (max-width:426px) {
-
+    #header1 #h1group{
+        display: none;
+    }
     #header1,
     #container {
         width: 100%;
