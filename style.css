@@ -687,4 +687,13 @@ body {
         width: 80%;
         float: left;
     }
+    #section_last #news_updates{
+        width: 98%;
+    float: none;
+    margin-right: 0;
+    padding: 4px;
+    }
+    {
+            width: 79%;
+    }
 }
