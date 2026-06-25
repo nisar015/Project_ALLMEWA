@@ -696,7 +696,10 @@ body {
     #section_last #news_updates #news{
             width: 79%;
     }
-    {
+    #section_last #news_updates #sidebar{
         width: 14%;
+    }
+    #news_updates #sidebar button{
+        font-size: 13px;
     }
 }
