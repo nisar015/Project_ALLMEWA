@@ -720,7 +720,7 @@ body {
     #footer1 {
         width: 100%;
     }
-    #footer2 p{
+    #footer2 p,.lst_p{
     float: none;
     margin: 0;
     }
