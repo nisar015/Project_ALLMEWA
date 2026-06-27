@@ -679,7 +679,7 @@ body {
     }
     #section_last #gallery img{
         width: 30%;
-    padding: 0;
+    padding: 5px;
     }
     #gallery #h3_button h3{
         margin-right: 215px;
