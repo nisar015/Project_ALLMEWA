@@ -542,7 +542,6 @@ body {
 #footer2 .lst_p {
     margin: 0 0 0 246px;
 }
-
 @media screen and (max-width:426px) {
     #header1 #h1group {
         display: none;
