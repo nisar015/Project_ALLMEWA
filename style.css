@@ -720,4 +720,8 @@ body {
     #footer1 {
         width: 100%;
     }
+    #footer2 p{
+    float: none;
+    margin: 0;
+    }
 }
