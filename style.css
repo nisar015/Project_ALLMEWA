@@ -681,4 +681,7 @@ body {
         width: 30%;
     padding: 0;
     }
+    #gallery #h3_button h3{
+        margin-right: 215px;
+    }
 }
