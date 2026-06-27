@@ -677,4 +677,8 @@ body {
     float: none;
     margin-right: 0;
     }
+    #section_last #gallery img{
+        width: 30%;
+    padding: 0;
+    }
 }
