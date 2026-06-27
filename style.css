@@ -717,4 +717,7 @@ body {
     #diary_pub #DP_PUB{
         width: 82%;
     }
+    #footer1 {
+        width: 100%;
+    }
 }
