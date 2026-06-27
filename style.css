@@ -683,11 +683,9 @@ body {
     #section_last #news_updates #sidebar {
         width: 14%;
     }
-
     #news_updates #sidebar button {
         font-size: 13px;
     }
-
     #section_last #gallery {
         width: 100%;
         float: none;
