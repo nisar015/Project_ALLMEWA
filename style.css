@@ -549,7 +549,8 @@ body {
     }
     #header1,
     #container,
-    #hon_mem  {
+    #hon_mem,
+    #footer1 {
         width: 100%;
     }
     #h1group li.h1_start,
