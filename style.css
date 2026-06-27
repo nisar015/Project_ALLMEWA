@@ -550,7 +550,8 @@ body {
     #header1,
     #container,
     #hon_mem,
-    #footer1 {
+    #footer1,
+    #section_last{
         width: 100%;
     }
     #h1group li.h1_start,
