@@ -676,6 +676,7 @@ body {
         width: 100%;
     float: none;
     margin-right: 0;
+    padding: 6px;
     }
     #section_last #gallery img{
         width: 30%;
