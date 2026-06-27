@@ -549,7 +549,8 @@ body {
     }
 
     #header1,
-    #container {
+    #container,
+    #hon_mem  {
         width: 100%;
     }
 
