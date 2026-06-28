@@ -398,7 +398,7 @@ body {
 
 #diary_pub #DP_PUB {
     float: left;
-    width: 81%;
+    width: 200px;
     font-family: sans-serif;
     /* padding: 5px; */
 }
@@ -433,7 +433,7 @@ body {
 }
 
 #section_last #diary_pub #sideba {
-    width: 18%;
+    width: 65px;
     padding: 2px;
     display: inline-block;
 }
@@ -698,7 +698,7 @@ body {
         margin-right: 0;
     }
     #diary_pub #DP_PUB{
-        width: 82%;
+        width: 81%;
     }
     #footer2 p{
     float: none;
