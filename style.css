@@ -542,39 +542,46 @@ body {
 #footer2 .lst_p {
     margin: 0 0 0 246px;
 }
+
 @media screen and (max-width:426px) {
     #header1 #h1group {
         display: none;
     }
+
     #header1,
     #container,
     #hon_mem,
     #footer1,
-    #section_last{
+    #section_last {
         width: 100%;
     }
+
     #h1group li.h1_start,
     #h1group li.h1_mid {
         display: block;
         text-align: center;
     }
+
     #h1group li.h1_space {
         width: 100%;
         margin: 0;
         text-align: center;
     }
+
     #header1 #h1group li.line {
         display: none;
         margin: 0;
         text-align: center;
         line-height: 1.4em;
     }
+
     #logo_name {
         float: none;
         width: 100%;
     }
 
-    #logo_name img, #footer2 p{
+    #logo_name img,
+    #footer2 p {
         width: 100%;
         margin: 0;
     }
@@ -601,6 +608,7 @@ body {
         width: 40%;
         margin: 5px 0 5px 136px;
     }
+
     #container #hon_mem #section1 {
         float: none;
         width: 100%;
@@ -617,8 +625,8 @@ body {
     }
 
     #container #hon_mem #section1 article img {
-        width: 45%;    
-    margin: 10px 116px;
+        width: 45%;
+        margin: 10px 116px;
         float: none;
         padding: 0;
     }
@@ -649,58 +657,79 @@ body {
         float: none;
         height: 100%;
     }
+
     #container #categories article {
         width: 48%;
         padding: 2px;
         margin: 2px;
     }
+
     #container #categories article figure img {
         width: 30%;
         float: none;
         margin-left: 60px;
     }
+
     #container #categories article figure figcaption {
         width: 100%;
         float: none;
         text-align: center;
     }
+
     #container #section_last #news_updates {
         width: 100%;
         float: none;
         margin-right: 0;
     }
+
     #container #section_last #news {
         width: 78%;
     }
+
     #section_last #news_updates #sidebar {
         width: 14%;
     }
+
     #news_updates #sidebar button {
         font-size: 13px;
     }
+
     #section_last #gallery {
         width: 100%;
         float: none;
         margin-right: 0;
         padding: 6px;
     }
+
     #section_last #gallery img {
         width: 30%;
         padding: 5px;
     }
+
     #gallery #h3_button h3 {
         margin-right: 215px;
     }
+
     #section_last #diary_pub {
         width: 100%;
         float: none;
         margin-right: 0;
     }
-    #diary_pub #DP_PUB{
+
+    #diary_pub #DP_PUB {
         width: 81%;
     }
-    #footer2 p{
-    float: none;
-    margin: 0;
+
+    #footer2 p {
+        float: none;
+        margin: 0;
+    }
+
+    #footer1 #quick_links,
+    #footer1 #imp_doc,
+    #footer1 #contact {
+        width: 100%;
+        float: none;
+        margin: 0;
     }
 }
