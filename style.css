@@ -470,6 +470,8 @@ body {
     width: 180px;
     background: green;
     border-radius: 7px;
+    
+            margin-bottom: 20px;
     /* box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15); */
 }
 
