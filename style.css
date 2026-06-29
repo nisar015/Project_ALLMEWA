@@ -733,13 +733,14 @@ body {
     float: none;
     }
     #section_last #members a figure img{
-            margin: 0 113px;
+            width: 52%;
+    margin: 0px 78px;
     }
     #section_last #members a figure figcaption{
         text-align: center;
     }
     #section_last #members a figure {
-        padding: 5px;
+        /* padding: 5px; */
         width: 100%;
     }
 
