@@ -606,7 +606,8 @@ body {
 
     #header2 button {
         width: 42%;
-        margin: 10px 0 10px 99px;;
+        margin: 10px 0 10px 99px;
+        ;
     }
 
     #container #hon_mem #section1 {
@@ -683,14 +684,16 @@ body {
     }
 
     #container #section_last #news {
-        width:80%;
+        width: 80%;
+        font-size: 10px;
     }
 
     #section_last #news_updates #sidebar {
-        width: 17%;
+        width: 20%;
     }
-    #news_updates #sidebar time{
-        font-size: 12px;
+
+    #news_updates #sidebar time {
+        font-size: 13px;
     }
 
     #news_updates #sidebar button {
