@@ -396,6 +396,7 @@ body {
     box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15);
     border-radius: 7px;
     margin-right: 9px;
+            margin-bottom: 20px;
 }
 
 #diary_pub #DP_PUB {
