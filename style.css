@@ -626,7 +626,7 @@ body {
 
     #container #hon_mem #section1 article img {
         width: 45%;
-        
+        margin: 10px 87px;
         float: none;
         padding: 0;
     }
