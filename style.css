@@ -740,6 +740,7 @@ body {
     }
     #section_last #members a figure {
         padding: 5px;
+        width: 100%;
     }
 
     #diary_pub #DP_PUB {
