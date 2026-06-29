@@ -690,6 +690,7 @@ body {
 
     #section_last #news_updates #sidebar {
         width: 20%;
+        padding: 0;
     }
 
     #news_updates #sidebar time {
