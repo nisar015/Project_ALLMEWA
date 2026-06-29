@@ -729,7 +729,8 @@ body {
         margin-right: 0;
     }
     #section_last #members{
-        margin: 0 70px;
+        width: 100%;
+    float: none;
     }
 
     #diary_pub #DP_PUB {
