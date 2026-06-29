@@ -728,6 +728,9 @@ body {
         float: none;
         margin-right: 0;
     }
+    #section_last #members{
+        
+    }
 
     #diary_pub #DP_PUB {
         width: 78%;
@@ -745,4 +748,5 @@ body {
         float: none;
         margin: 0;
     }
+
 }
