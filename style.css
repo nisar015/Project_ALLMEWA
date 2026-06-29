@@ -681,6 +681,7 @@ body {
         width: 100%;
         float: none;
         margin-right: 0;
+        padding: 4px;
     }
 
     #container #section_last #news {
