@@ -316,7 +316,6 @@ body {
 #section_last {
     width: 1430px;
     margin: 0 auto;
-            margin-bottom: 20px;
 }
 
 #container #section_last #news_updates {
@@ -327,6 +326,7 @@ body {
     float: left;
     margin-right: 10px;
     border-radius: 7px;
+    margin-bottom: 20px;
 
 }
 
