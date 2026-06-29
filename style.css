@@ -316,6 +316,7 @@ body {
 #section_last {
     width: 1430px;
     margin: 0 auto;
+            margin-bottom: 20px;
 }
 
 #container #section_last #news_updates {
