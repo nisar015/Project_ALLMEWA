@@ -738,6 +738,9 @@ body {
     #section_last #members a figure figcaption{
         text-align: center;
     }
+    #section_last #members a figure {
+        padding: 5px;
+    }
 
     #diary_pub #DP_PUB {
         width: 78%;
