@@ -380,6 +380,7 @@ body {
     box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15);
     margin-right: 10px;
     border-radius: 7px;
+    margin-bottom: 20px;
 }
 
 #section_last #gallery img {
