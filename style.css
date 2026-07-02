@@ -557,7 +557,8 @@ body {
     #container,
     #hon_mem,
     #footer1,
-    #section_last {
+    #section_last,
+    #section_last #members a figure  {
         width: 100%;
     }
 
@@ -713,7 +714,7 @@ body {
         text-align: center;
     }
 
-    #section_last #members a figure {
+    {
         /* padding: 5px; */
         width: 100%;
     }
