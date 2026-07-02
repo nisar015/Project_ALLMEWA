@@ -396,7 +396,7 @@ body {
     box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15);
     border-radius: 7px;
     margin-right: 9px;
-            margin-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 #diary_pub #DP_PUB {
@@ -470,8 +470,8 @@ body {
     width: 180px;
     background: green;
     border-radius: 7px;
-    
-            margin-bottom: 20px;
+
+    margin-bottom: 20px;
     /* box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15); */
 }
 
@@ -580,7 +580,8 @@ body {
         line-height: 1.4em;
     }
 
-    #logo_name,#section_last #members {
+    #logo_name,
+    #section_last #members {
         float: none;
         width: 100%;
     }
@@ -590,32 +591,38 @@ body {
         width: 100%;
         margin: 0;
     }
+
     #header2 nav {
         float: none;
         width: 100%;
         margin: 0;
     }
+
     #header2 nav ul {
         padding: 0;
         margin: 0;
     }
+
     #header2 nav ul li {
         display: block;
         text-align: center;
         margin: 0;
         line-height: 1.6em;
     }
+
     #header2 button {
         width: 42%;
         margin: 10px 0 10px 99px;
         ;
     }
+
     #container #hon_mem #section1 {
         float: none;
         width: 100%;
         margin: 0;
         margin-bottom: 30px;
     }
+
     #container #hon_mem #section1 article {
         width: 100%;
         float: none;
@@ -623,109 +630,134 @@ body {
         box-shadow: inset 0 0 0 0;
         margin-right: 0;
     }
+
     #container #hon_mem #section1 article img {
         width: 45%;
         margin: 10px 87px;
         float: none;
         padding: 0;
     }
+
     #hon_mem #section1 article figure figcaption {
         float: none;
         width: 40%;
         margin-left: 97px;
     }
+
     #hon_mem #section1 article figure figcaption h4,
     #hon_mem #section1 article figure figcaption p {
         text-align: center;
     }
+
     #hon_mem #section1 article figure figcaption button {
         margin-left: 25px;
     }
+
     #hon_mem #section2 {
         width: 100%;
         float: none;
         padding: 0;
     }
+
     #container #categories {
         width: 100%;
         float: none;
         height: 100%;
     }
+
     #container #categories article {
         width: 47%;
         padding: 2px;
         margin: 2px;
     }
+
     #container #categories article figure img {
         width: 30%;
         float: none;
         margin-left: 60px;
     }
+
     #container #categories article figure figcaption {
         width: 100%;
         float: none;
         text-align: center;
     }
+
     #container #section_last #news_updates {
         width: 100%;
         float: none;
         margin-right: 0;
         padding: 4px;
     }
+
     #container #section_last #news {
         width: 80%;
         font-size: 10px;
     }
+
     #section_last #news_updates #sidebar {
         width: 20%;
         padding: 0;
     }
+
     #news_updates #sidebar time {
         font-size: 13px;
     }
+
     #news_updates #sidebar button {
         font-size: 13px;
     }
+
     #section_last #gallery {
         width: 100%;
         float: none;
         margin-right: 0;
         padding: 4px;
     }
+
     #section_last #gallery img {
         width: 30%;
         padding: 4px;
     }
+
     #gallery #h3_button h3 {
         margin-right: 115px;
     }
+
     #section_last #diary_pub {
         width: 100%;
         float: none;
         margin-right: 0;
     }
-    {
+
+        {
         width: 100%;
-    float: none;
+        float: none;
     }
-    #section_last #members a figure img{
-            width: 52%;
-    margin: 0px 78px;
+
+    #section_last #members a figure img {
+        width: 52%;
+        margin: 0px 78px;
     }
-    #section_last #members a figure figcaption{
+
+    #section_last #members a figure figcaption {
         text-align: center;
     }
+
     #section_last #members a figure {
         /* padding: 5px; */
         width: 100%;
     }
+
     #diary_pub #DP_PUB {
         width: 78%;
     }
+
     #footer2 p {
         float: none;
         margin: 0;
     }
+
     #footer1 #quick_links,
     #footer1 #imp_doc,
     #footer1 #contact {
