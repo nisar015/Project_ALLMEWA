@@ -580,7 +580,7 @@ body {
         line-height: 1.4em;
     }
 
-    #logo_name {
+    #logo_name,#section_last #members {
         float: none;
         width: 100%;
     }
@@ -704,7 +704,7 @@ body {
         float: none;
         margin-right: 0;
     }
-    #section_last #members{
+    {
         width: 100%;
     float: none;
     }
