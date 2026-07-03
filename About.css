@@ -46,3 +46,7 @@ body {
     padding: 60px;
     padding-bottom: 0;
 }
+#values article figure img{
+        width: 90px;
+    margin: 20px 20px 20px 96px;
+}
