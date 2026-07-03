@@ -9,6 +9,9 @@ body {
     font-size: 13px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+#header{
+    width: 100%;
+}
 #container{
     width: 1420px;
     margin: 0 auto;
