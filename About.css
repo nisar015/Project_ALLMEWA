@@ -126,7 +126,12 @@ body {
 #values article figure figcaption {
     margin: 0 91px 20px 110px;
 }
-
+h2{
+    margin: 0 115px;
+}
+{
+        margin: 4px 75px 4px 91px;
+}
 #values h3 {
     color: darkgreen;
     font-size: 22px;
