@@ -89,6 +89,8 @@ body {
     margin: 0 auto;
     background-color: white;
     color: black;
+    margin-bottom: 20px;
+    border: 1px solid;
 }
 
 #container #content {
