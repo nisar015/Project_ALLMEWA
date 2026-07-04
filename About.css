@@ -91,6 +91,7 @@ body {
 }
 #container p{
     background-color: #E8F5E9;
+    padding: 22px;
 }
 #container #content {
     background: #E8F5E9;
