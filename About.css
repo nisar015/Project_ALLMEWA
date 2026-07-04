@@ -89,7 +89,9 @@ body {
     background-color: white;
     color: black;
 }
-
+#container p{
+    background-color: #E8F5E9;
+}
 #container #content {
     background: #E8F5E9;
 }
