@@ -25,24 +25,29 @@ body {
 #container #content {
     background: #E8F5E9;
 }
+
 #content figcaption {
     width: 50%;
     padding: 60px;
 }
+
 #content figcaption h3 {
     color: darkgreen;
     font-family: sans-serif;
     font-size: 22px;
     padding: 5px;
 }
+
 #content figcaption p {
     font-size: 19px;
     font-family: sans-serif;
     padding: 5px;
 }
+
 #values {
     overflow: auto;
 }
+
 #values article {
     width: 20%;
     float: left;
@@ -50,16 +55,67 @@ body {
     margin: 29px;
     border-radius: 20px;
 }
+
 #values article figure figcaption {
     margin: 0 91px 20px 110px;
 }
+
 #values h3 {
     color: darkgreen;
     font-size: 22px;
     padding: 60px;
     padding-bottom: 0;
 }
+
 #values article figure img {
     width: 90px;
     margin: 20px 20px 9px 107px;
+}
+
+#footer1 {
+    width: 1430px;
+    margin: 0 auto;
+}
+
+#footer1 #quick_links,
+#footer1 #imp_doc,
+#footer1 #contact {
+    float: left;
+    width: 376px;
+    margin: 10px 50px;
+}
+
+#footer1 ul a {
+    color: white;
+    width: 186px;
+    display: inline-block;
+    line-height: 1.3em;
+    outline: none;
+    text-decoration: none;
+    /* list-style: none; */
+    margin: 5px 0 0 0;
+    font-family: sans-serif;
+}
+
+#footer1 article ul h4 {
+    font-family: sans-serif;
+    margin-bottom: 6px;
+}
+
+#footer2 {
+    overflow: auto;
+    clear: both;
+    color: white;
+    background: black;
+    padding: 4px;
+}
+
+#footer2 p {
+    width: 21%;
+    float: left;
+    margin: 0px 6px 0 59px;
+}
+
+#footer2 .lst_p {
+    margin: 0 0 0 246px;
 }
