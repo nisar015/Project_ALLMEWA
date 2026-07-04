@@ -14,6 +14,7 @@ body {
     color: black;
     background-color: white;
     overflow: auto;
+    margin-bottom: 20px;
 }
 
 #logo_name {
@@ -89,6 +90,7 @@ body {
     background-color: white;
     color: black;
 }
+
 #container #content {
     background: #E8F5E9;
 }
@@ -122,12 +124,15 @@ body {
     margin: 29px;
     border-radius: 20px;
 }
-#values article figure figcaption h2{
+
+#values article figure figcaption h2 {
     margin: 0 115px;
 }
-#values article figure figcaption p{
-        margin: 4px 75px 4px 91px;
+
+#values article figure figcaption p {
+    margin: 4px 75px 4px 91px;
 }
+
 #values h3 {
     color: darkgreen;
     font-size: 22px;
