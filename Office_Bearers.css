@@ -95,14 +95,13 @@ body {
     border: 1px solid;
 }
 
-#section1 {
+#container #section1 {
     width: 875px;
     float: left;
     margin-right: 37px;
     margin-top: 3px;
 }
-
-#section1 h3 {
+#container #section1 h3 {
     text-align: center;
     font-family: sans-serif;
     padding: 5px;
@@ -110,7 +109,7 @@ body {
     margin: 5px 0 0 0;
 }
 
-#section1 article figure figcaption button {
+#container #section1 article figure figcaption button {
     border-radius: 4px;
     font-size: 11px;
     padding: 3px;
@@ -118,7 +117,7 @@ body {
     background: darkgreen;
 }
 
-#section1 article {
+#container #section1 article {
     width: 203px;
     float: left;
     /* border: 1px solid whitesmoke; */
@@ -128,7 +127,7 @@ body {
     border-radius: 7px;
 
 }
-#section1 article figure img {
+#container #section1 article figure img {
     width: 91px;
     float: left;
     border: 1px solid whitesmoke;
@@ -137,26 +136,26 @@ body {
     /* box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.15); */
 }
 
-#section1 article figure figcaption {
+#container #section1 article figure figcaption {
 
     float: right;
     width: 95px;
 }
 
- #section1 article figure figcaption h4 {
+#container #section1 article figure figcaption h4 {
     font-family: sans-serif;
     /* font-weight: bold; */
     margin-top: 10px;
 }
 
-#section1 article figure p {
+#container #section1 article figure p {
     font-family: sans-serif;
     font-size: 9px;
     margin: 17px 0;
     font-weight: bold;
 }
 
-#section1 .CM {
+#container #section1 .CM {
     margin: 12px 0;
 }
 #footer1 {
