@@ -155,6 +155,7 @@ body {
 #footer1 {
     width: 1430px;
     margin: 0 auto;
+    border: 1px solid;
 }
 
 #footer1 #quick_links,
