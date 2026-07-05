@@ -126,6 +126,7 @@ body {
     background: #E8F5E9;
     margin: 29px;
     border-radius: 20px;
+    padding: 5px;
 }
 #values article figure figcaption h2.a{
     margin: 0 100px;
