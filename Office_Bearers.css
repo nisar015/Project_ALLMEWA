@@ -101,16 +101,19 @@ body {
     color: darkgreen;
     margin: 5px 0 0 0;
 }
-#hon_mem #section1 article {
-    width: 203px;
-    float: left;
-    /* border: 1px solid whitesmoke; */
-    padding: 4px;
-    margin-right: 7px;
+#section1 article {
+    width: 500px;
+    margin: 0 auto;
+    padding: 14px;
+    margin-bottom: 20px;
     box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15);
     border-radius: 7px;
 
 }
+#section1 img{
+    margin: 0 138px;
+}
+#section1 figcaption{margin: 0 187px 0 215px;}
 #footer1 {
     width: 1430px;
     margin: 0 auto;
