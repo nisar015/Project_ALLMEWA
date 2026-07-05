@@ -101,6 +101,16 @@ body {
     color: darkgreen;
     margin: 5px 0 0 0;
 }
+#hon_mem #section1 article {
+    width: 203px;
+    float: left;
+    /* border: 1px solid whitesmoke; */
+    padding: 4px;
+    margin-right: 7px;
+    box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 7px;
+
+}
 #footer1 {
     width: 1430px;
     margin: 0 auto;
