@@ -114,6 +114,31 @@ body {
     margin: 0 138px;
 }
 #section1 figcaption{margin: 0 187px 0 215px;}
+#hon_mem #section1 article figure figcaption {
+    float: right;
+    width: 95px;
+    padding: 5px;
+}
+
+#hon_mem #section1 article figure figcaption h4 {
+    font-family: sans-serif;
+    /* font-weight: bold; */
+    margin-top: 10px;
+}
+
+#hon_mem #section1 article figure p {
+    font-family: sans-serif;
+    font-size: 9px;
+    margin: 17px 0;
+    font-weight: bold;
+}
+#section1 article figure figcaption button {
+    border-radius: 4px;
+    font-size: 11px;
+    padding: 3px;
+    color: white;
+    background: darkgreen;
+}
 #footer1 {
     width: 1430px;
     margin: 0 auto;
