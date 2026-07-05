@@ -127,7 +127,7 @@ body {
     margin: 29px;
     border-radius: 20px;
 }
-#values article figure figcaption h2{
+#values article figure figcaption h2.a{
     margin: 0 ;
 }
 
