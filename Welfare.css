@@ -1,0 +1,189 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    color: white;
+    background-color: darkgreen;
+    font-size: 13px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#header2 {
+    color: black;
+    background-color: white;
+    overflow: auto;
+    margin-bottom: 20px;
+}
+
+#logo_name {
+    float: left;
+}
+
+#logo_name img {
+    width: 255px;
+    margin-left: 35px;
+}
+
+#header2 h2 {
+    color: green;
+    font-size: 32px;
+    font-family: sans-serif;
+}
+
+#header2 p {
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+#header2 a {
+    color: orangered;
+}
+
+#header2 nav {
+    float: left;
+    margin: 0 0 0 81px;
+}
+
+#header2 nav ul {
+    list-style: none;
+    padding: 41px;
+}
+
+#header2 nav ul li {
+    display: inline-block;
+    margin: 0 30px 0 0;
+}
+
+#header2 button a {
+    color: white;
+    background-color: red;
+    outline: none;
+    text-decoration: none;
+}
+
+#header2 button {
+    /* padding: 6px; */
+    margin: 33px 0px 6px 0;
+    background: red;
+    color: white;
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 7px 15px 6px 15px;
+}
+
+#header2 nav ul li a {
+    outline: none;
+    text-decoration: none;
+    color: black;
+
+    font-size: medium;
+    font-family: sans-serif;
+    font-weight: normal;
+}
+
+#container {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: white;
+    color: black;
+    margin-bottom: 20px;
+    border: 1px solid;
+}
+#section1 h3 {
+    text-align: center;
+    font-family: sans-serif;
+    padding: 5px;
+    color: darkgreen;
+    margin: 5px 0 0 0;
+}
+#section1 article {
+    width: 500px;
+    margin: 0 auto;
+    padding: 14px;
+    margin-bottom: 20px;
+    box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 7px;
+
+}
+#section1 img{
+    margin: 0 138px;
+}
+#section1 figcaption{margin: 0 187px 0 215px;}
+#section1 article figure figcaption {
+    /* float: right; */
+    width: 95px;
+    padding: 5px;
+}
+
+#section1 article figure figcaption h4 {
+    font-family: sans-serif;
+    /* font-weight: bold; */
+    margin-top: 10px;
+}
+
+#section1 article figure p {
+    font-family: sans-serif;
+    font-size: 9px;
+    margin: 17px 0;
+    font-weight: bold;
+}
+#section1 article figure figcaption button {
+    border-radius: 4px;
+    font-size: 11px;
+    padding: 3px;
+    color: white;
+    background: darkgreen;
+    margin: 0 -8px;
+}
+
+.footer1 {
+    width: 1430px;
+    margin: 0 auto;
+    border: 1px solid;
+}
+
+.footer1 #quick_links,
+.footer1 #imp_doc,
+.footer1 #contact {
+    float: left;
+    width: 376px;
+    margin: 10px 50px;
+}
+
+.footer1 ul a {
+    color: white;
+    width: 186px;
+    display: inline-block;
+    line-height: 1.3em;
+    outline: none;
+    text-decoration: none;
+    /* list-style: none; */
+    margin: 5px 0 0 0;
+    font-family: sans-serif;
+}
+
+.footer1 article ul h4 {
+    font-family: sans-serif;
+    margin-bottom: 6px;
+}
+
+#footer2 {
+    overflow: auto;
+    clear: both;
+    color: white;
+    background: black;
+    padding: 4px;
+}
+
+#footer2 p {
+    width: 21%;
+    float: left;
+    margin: 0px 6px 0 59px;
+}
+
+#footer2 .lst_p {
+    margin: 0 0 0 246px;
+}
