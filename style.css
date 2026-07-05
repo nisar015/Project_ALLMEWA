@@ -499,7 +499,10 @@ body {
     font-size: 11px;
     margin: 6px 16px 34px 12px;
 }
-
+#foot{
+    background-color: white;
+    color: black;
+}
 #footer1 {
     width: 1430px;
     margin: 0 auto;
