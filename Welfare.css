@@ -92,52 +92,6 @@ body {
     margin-bottom: 20px;
     border: 1px solid;
 }
-#section1 h3 {
-    text-align: center;
-    font-family: sans-serif;
-    padding: 5px;
-    color: darkgreen;
-    margin: 5px 0 0 0;
-}
-#section1 article {
-    width: 500px;
-    margin: 0 auto;
-    padding: 14px;
-    margin-bottom: 20px;
-    box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15);
-    border-radius: 7px;
-
-}
-#section1 img{
-    margin: 0 138px;
-}
-#section1 figcaption{margin: 0 187px 0 215px;}
-#section1 article figure figcaption {
-    /* float: right; */
-    width: 95px;
-    padding: 5px;
-}
-
-#section1 article figure figcaption h4 {
-    font-family: sans-serif;
-    /* font-weight: bold; */
-    margin-top: 10px;
-}
-
-#section1 article figure p {
-    font-family: sans-serif;
-    font-size: 9px;
-    margin: 17px 0;
-    font-weight: bold;
-}
-#section1 article figure figcaption button {
-    border-radius: 4px;
-    font-size: 11px;
-    padding: 3px;
-    color: white;
-    background: darkgreen;
-    margin: 0 -8px;
-}
 
 .footer1 {
     width: 1430px;
