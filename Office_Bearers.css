@@ -139,20 +139,25 @@ body {
     color: white;
     background: darkgreen;
 }
-#footer1 {
+.foot{
+    background-color: white;
+    color: black;
+
+}
+.footer1 {
     width: 1430px;
     margin: 0 auto;
 }
 
-#footer1 #quick_links,
-#footer1 #imp_doc,
-#footer1 #contact {
+.footer1 #quick_links,
+.footer1 #imp_doc,
+.footer1 #contact {
     float: left;
     width: 376px;
     margin: 10px 50px;
 }
 
-#footer1 ul a {
+.footer1 ul a {
     color: white;
     width: 186px;
     display: inline-block;
@@ -164,7 +169,7 @@ body {
     font-family: sans-serif;
 }
 
-#footer1 article ul h4 {
+.footer1 article ul h4 {
     font-family: sans-serif;
     margin-bottom: 6px;
 }
