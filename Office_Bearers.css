@@ -114,19 +114,19 @@ body {
     margin: 0 138px;
 }
 #section1 figcaption{margin: 0 187px 0 215px;}
-#hon_mem #section1 article figure figcaption {
-    float: right;
+#section1 article figure figcaption {
+    /* float: right; */
     width: 95px;
     padding: 5px;
 }
 
-#hon_mem #section1 article figure figcaption h4 {
+#section1 article figure figcaption h4 {
     font-family: sans-serif;
     /* font-weight: bold; */
     margin-top: 10px;
 }
 
-#hon_mem #section1 article figure p {
+#section1 article figure p {
     font-family: sans-serif;
     font-size: 9px;
     margin: 17px 0;
@@ -139,14 +139,11 @@ body {
     color: white;
     background: darkgreen;
 }
-.foot{
-    background-color: white;
-    color: black;
 
-}
 .footer1 {
     width: 1430px;
     margin: 0 auto;
+    border: 1px solid;
 }
 
 .footer1 #quick_links,
