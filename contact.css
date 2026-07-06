@@ -140,8 +140,8 @@ body {
     padding: 5px;
 }
 #sec_half form input,#sec_half form label{
-    padding: 5px;
-    margin: 5px;
+        padding: 5px;
+    margin: 0 0 20px 10px;
 }
 #sec_half button{
     padding: 5px;
