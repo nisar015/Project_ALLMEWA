@@ -139,6 +139,9 @@ body {
 #sec_half form{
     padding: 5px;
 }
+#sec_half form p{
+    padding: 7px;
+}
 #sec_half form input,#sec_half form label{
         padding: 5px;
     margin: 0 0 20px 10px;
