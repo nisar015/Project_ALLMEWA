@@ -119,17 +119,7 @@ body {
     font-family: sans-serif;
     padding: 5px;
 }
-#first_half article p{
-        font-family: sans-serif;
-    line-height: 1.9em;
-    padding: 5px;
-}
-#first_half article img{
-    width: 22px;
-    float: left;
-    padding: 6px;
 
-}
 #sec_half{
     width: 45%;
     height: 430px;
