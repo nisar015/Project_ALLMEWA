@@ -124,7 +124,7 @@ body {
 }
 #sec_half{
     width: 45%;
-    height: 560px;
+    /* height: 560px; */
     float: left;
     padding: 7px;
     margin: 10px;
