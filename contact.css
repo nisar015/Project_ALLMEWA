@@ -132,7 +132,7 @@ body {
     width: 45%;
     height: 430px;
     float: left;
-    padding: 7px;
+    padding: 8px;
     margin: 10px 10px 10px 0;
     border: 1px solid lightgray;
 }
@@ -148,7 +148,7 @@ body {
 }
 #sec_half button{
     padding: 5px;
-    margin:5px 0 0 11px;
+    margin:4px 0 0 14px;
     background-color: darkgreen;
     color: white;
 }
