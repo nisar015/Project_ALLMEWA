@@ -101,6 +101,10 @@ body {
     margin: 10px;
     border: 1px solid lightgray;
 }
+#first_half article{
+    margin-bottom: 31px;
+    margin-top: 20px;
+}
 
 .footer1 {
     width: 1430px;
