@@ -124,8 +124,10 @@ body {
     padding: 5px;
 }
 #first_half article img{
-    width: 23px;
+    width: 22px;
     float: left;
+    padding: 3px;
+
 }
 #sec_half{
     width: 45%;
