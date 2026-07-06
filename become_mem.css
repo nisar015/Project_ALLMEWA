@@ -123,6 +123,9 @@ body {
     line-height: 1.6em;
     padding: 5px;
 }
+#first_half article p img{
+    width: 23px;
+}
 #sec_half{
     width: 45%;
     height: 430px;
