@@ -94,13 +94,14 @@ body {
     overflow: auto;
     border-radius: 17px;
 }
-section #first_half{
+#container #first_half{
     width: 45%;
     float: left;
     padding: 7px;
     margin: 10px;
     border: 1px solid lightgray;
 }
+
 .footer1 {
     width: 1430px;
     margin: 0 auto;
