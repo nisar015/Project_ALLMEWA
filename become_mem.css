@@ -103,8 +103,8 @@ body {
     border: 1px solid lightgray;
 }
 #first_half article{
-    margin-bottom: 31px;
-    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-top: 40px;
 }
 #first_half article h3,#sec_half article h3{
     color: darkgreen;
