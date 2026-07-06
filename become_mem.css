@@ -135,7 +135,7 @@ body {
     height: 430px;
     float: left;
     padding: 7px;
-    margin: 10px;
+    margin: 10px 10px 10px 0;
     border: 1px solid lightgray;
 }
 #sec_half form{
