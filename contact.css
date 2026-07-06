@@ -120,11 +120,13 @@ body {
     padding: 5px;
 }
 #first_half img{
-    width: 15px;
+    width: 22px;
     float: left;
+    padding: 25px;
 }
 #first_half article a p{
     /* float: left; */
+    padding: 29px
 }
 #sec_half{
     width: 45%;
