@@ -131,11 +131,16 @@ body {
     margin: 10px;
     border: 1px solid lightgray;
 }
-#sec_half form input,#sec_half form label,#sec_half button{
+#sec_half form input,#sec_half form label{
     padding: 5px;
     margin: 5px;
 }
-
+#sec_half button{
+    padding: 5px;
+    margin: 5px;
+    background-color: darkgreen;
+    color: white;
+}
 .footer1 {
     width: 1430px;
     margin: 0 auto;
