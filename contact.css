@@ -123,6 +123,9 @@ body {
     width: 20px;
     float: left;
 }
+#first_half article a p{
+    float: left;
+}
 #sec_half{
     width: 45%;
     height: 430px;
