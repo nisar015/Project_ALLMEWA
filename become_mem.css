@@ -147,7 +147,7 @@ body {
 }
 #sec_half button{
     padding: 5px;
-    margin: 5px;
+    margin:5px 0 0 11px;
     background-color: darkgreen;
     color: white;
 }
