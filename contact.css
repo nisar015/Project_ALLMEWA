@@ -124,7 +124,7 @@ body {
     float: left;
 }
 #first_half article a p{
-    float: left;
+    /* float: left; */
 }
 #sec_half{
     width: 45%;
