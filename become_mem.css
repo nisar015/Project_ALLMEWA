@@ -125,6 +125,7 @@ body {
 }
 #first_half article img{
     width: 23px;
+    float: left;
 }
 #sec_half{
     width: 45%;
