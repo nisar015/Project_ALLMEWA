@@ -110,7 +110,7 @@ body {
     margin-bottom: 40px;
     margin-top: 40px;
 }
-#first_half article h3,#sec_half article h3{
+#first_half article h3,#sec_half h3{
     color: darkgreen;
     font-weight: bold;
     font-size: 20px;
