@@ -110,6 +110,7 @@ body {
 #first_half article{
     margin-bottom: 40px;
     margin-top: 40px;
+    padding: 5px;
 }
 #first_half article h3,#sec_half h3{
     color: darkgreen;
