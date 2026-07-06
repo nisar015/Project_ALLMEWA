@@ -138,6 +138,9 @@ body {
     margin: 10px;
     border: 1px solid lightgray;
 }
+#sec_half form{
+    padding: 5px;
+}
 #sec_half form input,#sec_half form label{
     padding: 5px;
     margin: 5px;
