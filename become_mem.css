@@ -112,6 +112,15 @@ body {
     font-family: sans-serif;
     padding: 5px;
 }
+#first_half article p{
+        font-family: sans-serif;
+    line-height: 1.6em;
+    padding: 5px;
+}
+section #sec_half{
+    width: 50%;
+    float: left;
+}
 
 .footer1 {
     width: 1430px;
