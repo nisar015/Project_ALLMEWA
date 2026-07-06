@@ -101,6 +101,7 @@ body {
 }
 #container #first_half{
     width: 45%;
+    height: 430px;
     float: left;
     padding: 7px;
     margin: 10px;
