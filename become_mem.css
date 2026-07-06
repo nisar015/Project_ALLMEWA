@@ -105,7 +105,7 @@ body {
     margin-bottom: 31px;
     margin-top: 20px;
 }
-#first_half article h3{
+#first_half article h3,#sec_half article h3{
     color: darkgreen;
     font-weight: bold;
     font-size: 20px;
