@@ -109,7 +109,7 @@ body {
 }
 #first_half article{
     margin-bottom: 40px;
-    margin-top: 40px;
+    margin-top: 0;
     padding: 5px;
 }
 #first_half article h3,#sec_half h3{
@@ -138,6 +138,7 @@ body {
 }
 #sec_half form{
     padding: 5px;
+    margin-left: 10px;
 }
 #sec_half form p{
     padding: 6px;
@@ -148,7 +149,7 @@ body {
 }
 #sec_half button{
     padding: 5px;
-    margin:4px 0 0 14px;
+    margin:4px 0 0 20px;
     background-color: darkgreen;
     color: white;
 }
