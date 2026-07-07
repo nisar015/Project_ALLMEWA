@@ -102,7 +102,7 @@ body {
     background: aliceblue;
     padding: 17px;
 }
-#container #sect article img{
+#container #sec article figure img{
     float: left;
     width: 100px;
     padding: 20px;
