@@ -95,6 +95,10 @@ body {
     overflow: auto;
     border-radius: 17px;
 }
+#p{
+    padding: 5px;
+    margin: 5px;
+}
 #container #sec article{
     width: 96%;
     height: 130px;
