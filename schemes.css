@@ -96,8 +96,9 @@ body {
     border-radius: 17px;
 }
 #p{
-    padding: 5px;
-    margin: 5px;
+    padding: 2px;
+    margin: 2px;
+    background: alicebl
 }
 #container #sec article{
     width: 96%;
