@@ -95,19 +95,19 @@ body {
     overflow: auto;
     border-radius: 17px;
 }
-#sec article{
+#container #sec article{
     width: 98%;
     height: 130px;
     box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15);
     background: aliceblue;
     padding: 17px;
 }
-#sect article img{
+#container #sect article img{
     float: left;
     width: 100px;
     padding: 20px;
 }
-#sec article figcaption{
+#container #sec article figcaption{
         float: left;
     padding: 41px;
 }
