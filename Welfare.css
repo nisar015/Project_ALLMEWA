@@ -101,7 +101,7 @@ body {
 #container article img {
     float: left;
     width: 100px;
-    padding: 30px;
+    /* padding: 30px; */
 }
 
 #container article figcaption {
