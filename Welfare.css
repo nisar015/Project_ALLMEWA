@@ -94,7 +94,16 @@ body {
 }
 #container article{    width: 100%;
     height: 140px;}
-
+#container article img{
+    float: left;
+    width: 100px;
+    padding: 30px;
+}
+{
+    padding: 30px;
+    margin: 19px;
+    float: left;
+}
 .footer1 {
     width: 1430px;
     margin: 0 auto;
