@@ -99,7 +99,7 @@ body {
     width: 100px;
     padding: 30px;
 }
-{
+#container article figcaption{
     padding: 30px;
     margin: 19px;
     float: left;
