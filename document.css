@@ -117,6 +117,9 @@ body {
 #sec table{
     width: 100%;
 }
+#sec table tbody tr td{
+    
+}
 .footer1 {
     width: 1430px;
     margin: 0 auto;
