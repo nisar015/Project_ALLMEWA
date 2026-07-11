@@ -124,6 +124,9 @@ body {
     text-align: start;
     padding: 30px;
 }
+#sec table td,#sec table th{
+    border-right: 2px solid #333;
+}
 .footer1 {
     width: 1430px;
     margin: 0 auto;
