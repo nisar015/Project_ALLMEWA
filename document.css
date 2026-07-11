@@ -120,6 +120,9 @@ body {
 #sec table tbody tr td{
     text-align: center;
 }
+#sec table .start{
+    text-align: start;
+}
 .footer1 {
     width: 1430px;
     margin: 0 auto;
