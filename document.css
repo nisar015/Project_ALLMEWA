@@ -128,7 +128,7 @@ body {
 #sec table{
     width: 100%;
 }
-{
+#sec table tbody tr td img{
     width: 35px;
     float: left;
 }
