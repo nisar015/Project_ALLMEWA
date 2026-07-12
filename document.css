@@ -132,6 +132,11 @@ body {
     width: 35px;
     float: left;
 }
+{
+    float: left;
+    padding: 10px;
+    font-family: sans-serif;
+}
 #sec table tbody tr td{
     text-align: center;
     font-size: 13px;
