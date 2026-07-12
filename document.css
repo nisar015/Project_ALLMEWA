@@ -114,6 +114,11 @@ body {
         float: left;
     padding: 41px;
 }
+#sec p{
+        padding: 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
 #sec table{
     width: 100%;
 }
