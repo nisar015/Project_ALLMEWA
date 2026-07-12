@@ -115,9 +115,7 @@ body {
     padding: 41px;
 }
 #sec p{
-        padding: 10px;
-    font-family: sans-serif;
-    font-weight: bold;
+      
 }
 #sec table tbody tr th{
        padding: 10px;
@@ -131,6 +129,11 @@ body {
 #sec table tbody tr td img{
     width: 35px;
     float: left;
+}
+#sec #TEXT{
+      padding: 10px;
+    font-family: sans-serif;
+    font-weight: bold;
 }
 #sec table tbody tr td figcaption p{
     float: left;
