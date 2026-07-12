@@ -119,6 +119,11 @@ body {
     font-family: sans-serif;
     font-weight: bold;
 }
+#sec table tbody tr th{
+    padding: 10px;
+    background: black;
+    color: white;
+}
 #sec table{
     width: 100%;
 }
