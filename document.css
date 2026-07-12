@@ -130,6 +130,8 @@ body {
 }
 #sec table tbody tr td{
     text-align: center;
+    font-size: 13px;
+    font-family: sans-serif;
 }
 #sec table .start{
     text-align: start;
