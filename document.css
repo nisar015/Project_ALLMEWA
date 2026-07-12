@@ -139,11 +139,12 @@ body {
     box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15);
 }
 #sec table tbody td button{
-    padding: 5px;
+    padding: 6px;
     background: darkgreen;
     color: white;
     border-radius: 15px;
     font-size: 13px;
+    font-weight: bold;
 }
 /* #sec table td,#sec table th{
     border: 0.5px solid #333;
