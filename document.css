@@ -120,9 +120,10 @@ body {
     font-weight: bold;
 }
 #sec table tbody tr th{
-    padding: 10px;
-    background: black;
+       padding: 10px;
+    background: darkgreen;
     color: white;
+    border-radius: 5px;
 }
 #sec table{
     width: 100%;
