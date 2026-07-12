@@ -225,7 +225,7 @@ body {
     padding: 2px;
 }
 
-#section2 article button {
+#section2 article button a {
     padding: 5px;
     margin: 14px 0 5px 0;
     color: white;
