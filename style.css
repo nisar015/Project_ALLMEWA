@@ -231,6 +231,8 @@ body {
     color: white;
     background: darkgreen;
     border-radius: 5px;
+    outline: none;
+    text-decoration: none;
 }
 
 #container #categories {
