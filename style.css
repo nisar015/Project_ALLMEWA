@@ -391,7 +391,9 @@ body {
     margin-bottom: 20px;
 }
 #section_last #gallery button{
-    border: none;
+        border: none;
+    background: white;
+
 }
 #section_last #gallery button a{
     outline: none;
