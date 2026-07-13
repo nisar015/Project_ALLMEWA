@@ -350,7 +350,7 @@ body {
     padding: 0 0 0 20px;
 }
 
-.button {
+.button{
     border: 1px solid lightgrey;
     border-radius: 6px;
     padding: 1px 6px 1px 5px;
@@ -358,6 +358,10 @@ body {
     background: white;
     font-family: sans-serif;
     outline: none;
+}
+{
+    outline: none;
+    text-decoration: none;
 }
 
 #h3_button {
