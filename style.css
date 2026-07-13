@@ -358,6 +358,7 @@ body {
     background: white;
     font-family: sans-serif;
     /* outline: none; */
+    cursor: pointer;
 }
 .button a{
     outline: none;
