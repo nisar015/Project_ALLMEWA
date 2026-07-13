@@ -390,7 +390,10 @@ body {
     border-radius: 7px;
     margin-bottom: 20px;
 }
-
+#section_last #gallery button a{
+    outline: none;
+    text-decoration: none;
+}
 #section_last #gallery button a img{
     width: 134px;
     height: 90px;
