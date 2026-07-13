@@ -283,6 +283,19 @@
         <p class="lst_p">Education | Welfare | Empowerment</p>
         <p class="lst_p">Designed with ❤️ for Minority Employees</p>
     </footer>
+    <button onclick="downloadPDF()">Download PDF</button>
+
+    <script>
+        function downloadPDF() {
+            const link = document.createElement('a');
+            link.href = '/files/document.pdf'; // Path to your PDF file
+            link.download = 'my-custom-name.pdf'; // The filename the user will save it as
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+    </script>
+
 </body>
 
 </html>
