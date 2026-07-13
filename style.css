@@ -359,7 +359,7 @@ body {
     font-family: sans-serif;
     outline: none;
 }
-{
+.button a{
     outline: none;
     text-decoration: none;
 }
