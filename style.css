@@ -390,6 +390,9 @@ body {
     border-radius: 7px;
     margin-bottom: 20px;
 }
+#section_last #gallery button{
+    border: none;
+}
 #section_last #gallery button a{
     outline: none;
     text-decoration: none;
