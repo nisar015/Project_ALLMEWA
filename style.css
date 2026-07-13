@@ -225,12 +225,15 @@ body {
     padding: 2px;
 }
 
-#section2 article button a {
+#section2 article button{
     padding: 5px;
     margin: 14px 0 5px 0;
     color: white;
     background: darkgreen;
     border-radius: 5px;
+}
+#section2 article button a {
+    color: white;
     outline: none;
     text-decoration: none;
 }
