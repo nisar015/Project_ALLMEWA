@@ -357,7 +357,7 @@ body {
     color: black;
     background: white;
     font-family: sans-serif;
-    outline: none;
+    /* outline: none; */
 }
 .button a{
     outline: none;
