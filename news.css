@@ -103,6 +103,9 @@ body {
     float: left;
     margin: 100px 50px 50px 100px;
 }
+#news article{
+    width: 400px;
+}
 #news figure img{
     width: 200px;
     float: left;
