@@ -98,6 +98,10 @@ body {
     margin: 2px;
     background: aliceblue;
 }
+#news{
+    width: 60%;
+    margin: 50px 50px 50px 145px;
+}
 
 .footer1 {
     width: 1430px;
