@@ -110,6 +110,7 @@ body {
 }
 #news figure figcaption{
     float: left;
+    width: 400px;
 }
 .footer1 {
     width: 1430px;
