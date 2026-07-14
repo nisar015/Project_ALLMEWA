@@ -107,6 +107,9 @@ body {
     float: left;
     border-radius: 30px;
 }
+#news figure figcaption{
+    float: left;
+}
 .footer1 {
     width: 1430px;
     margin: 0 auto;
