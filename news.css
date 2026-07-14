@@ -102,7 +102,11 @@ body {
     width: 60%;
     margin: 100px 50px 50px 100px;
 }
-
+#news figure img{
+    width: 200px;
+    float: left;
+    border-radius: 30px;
+}
 .footer1 {
     width: 1430px;
     margin: 0 auto;
