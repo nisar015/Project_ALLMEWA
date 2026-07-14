@@ -105,6 +105,7 @@ body {
 }
 #news article{
     width: 400px;
+    clear: both;
 }
 #news figure img{
     width: 200px;
