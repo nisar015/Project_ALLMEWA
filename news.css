@@ -104,7 +104,9 @@ body {
     margin: 100px 50px 50px 100px;
 }
 #news article{
-    clear: both;
+    overflow: auto;
+    width: 600px;
+    padding: 20px;
 }
 #news figure img{
     width: 200px;
