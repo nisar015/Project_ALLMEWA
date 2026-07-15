@@ -52,7 +52,7 @@ body {
     float: left;
 }
 
-#logo_name img {
+#logo_name a img {
     width: 255px;
     margin-left: 35px;
 }
