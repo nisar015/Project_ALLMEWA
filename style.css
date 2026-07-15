@@ -178,7 +178,7 @@ body {
 }
 
 #hon_mem #section1 article figure figcaption {
-
+    color: black;
     float: right;
     width: 95px;
 }
