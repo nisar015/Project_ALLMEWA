@@ -156,30 +156,6 @@ body {
     background: darkgreen;
     cursor: pointer;
 }
-/* Base styling for your button */
-.zoom-button {
-  padding: 12px 24px;
-  font-size: 16px;
-  background-color: #007bff;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  
-  /* CRUCIAL: Animates the zoom smoothly over 0.2 seconds */
-  transition: transform 0.2s ease-in-out; 
-}
-
-/* The Zoom Animation Effect on Hover */
-.zoom-button:hover {
-  /* Scales the button to 110% of its original size */
-  transform: scale(1.1); 
-}
-
-/* Optional: Shrinks slightly when clicked for a physical button feel */
-.zoom-button:active {
-  transform: scale(0.95);
-}
 
 #hon_mem #section1 article {
     width: 203px;
