@@ -31,7 +31,9 @@ body {
 .h1_space {
     margin-left: 809px;
 }
-
+.h1_mid{
+    margin-right: 5px;
+}
 .line {
     margin: 0 3px;
 }
