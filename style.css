@@ -95,7 +95,7 @@ body {
     text-decoration: none;
 }
 
-#header2 button {
+#header2 .ani-button{
     /* padding: 6px; */
     margin: 33px 0px 6px 0;
     background: red;
