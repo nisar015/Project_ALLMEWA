@@ -234,6 +234,7 @@ body {
     color: white;
     background: darkgreen;
     border-radius: 5px;
+    transition: transform 1.2s;
 }
 #section2 article button a {
     color: white;
