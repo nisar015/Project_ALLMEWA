@@ -95,7 +95,7 @@ body {
     text-decoration: none;
 }
 
-#header2 .ani-button{
+#header2 button {
     /* padding: 6px; */
     margin: 33px 0px 6px 0;
     background: red;
@@ -103,10 +103,6 @@ body {
     border: 1px solid;
     border-radius: 4px;
     padding: 7px 15px 6px 15px;
-    transition: transform 1.2s;
-}
-.ani-button:hover{
-    transform: scale(1.2);
 }
 
 #header2 nav ul li a {
@@ -232,7 +228,7 @@ body {
     padding: 2px;
 }
 
-#section2 article button{
+#section2 .ani-button{
     padding: 5px;
     margin: 14px 0 5px 0;
     color: white;
