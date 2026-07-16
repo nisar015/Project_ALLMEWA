@@ -264,24 +264,24 @@ body {
 
 }
 
-#categories .a ,.ani_button{
+#categories .a , .ani_button{
     background-color: #E8F5E9;
     border:none ;
 }
 
-#categories .b,.ani_button {
+#categories .b, .ani_button {
     background-color: #E3F2FD;
 }
 
-#categories .c,.ani_button {
+#categories .c, .ani_button {
     background-color: #FFF8E1;
 }
 
-#categories .d,.ani_button {
+#categories .d, .ani_button {
     background-color: #FCE4EC;
 }
 
-#categories .e,.ani_button {
+#categories .e, .ani_button {
     background-color: #F1F8E9;
 }
 
