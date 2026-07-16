@@ -273,7 +273,7 @@ body {
     background-color: #E3F2FD;
 }
 
-#categories #c {
+#categories .c,.ani_button {
     background-color: #FFF8E1;
 }
 
