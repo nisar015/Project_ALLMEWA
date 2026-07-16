@@ -266,6 +266,7 @@ body {
 
 #categories .a {
     background-color: #E8F5E9;
+    border:none ;
 }
 
 #categories #b {
@@ -308,9 +309,9 @@ body {
     line-height: 1.4em;
     margin-bottom: 5px;
 }
-#categories article figcaption .a,.ani_button{
+#categories article figcaption .ani_button{
     background-color: #E8F5E9;
-    border:none ;
+    
 }
 #categories article figcaption button a {
     color: darkgreen;
