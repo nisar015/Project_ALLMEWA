@@ -269,7 +269,7 @@ body {
     border:none ;
 }
 
-#categories #b {
+#categories .b,.ani_button {
     background-color: #E3F2FD;
 }
 
@@ -309,10 +309,10 @@ body {
     line-height: 1.4em;
     margin-bottom: 5px;
 }
-#categories article figcaption .ani_button{
+/* #categories article figcaption .ani_button{
     background-color: #E8F5E9;
     
-}
+} */
 #categories article figcaption button a {
     color: darkgreen;
     /* padding: 2px; */
