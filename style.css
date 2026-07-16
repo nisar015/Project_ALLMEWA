@@ -309,7 +309,7 @@ body {
     margin-bottom: 5px;
 }
 
-#categories article figcaption a {
+#categories article figcaption button a {
     color: darkgreen;
     /* padding: 2px; */
     font-size: 12px;
