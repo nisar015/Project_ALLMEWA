@@ -310,22 +310,15 @@ body {
 }
 
 #categories article figcaption a {
-    /* color: darkgreen; */
+    color: darkgreen;
     /* padding: 2px; */
-    /* font-size: 12px; */
+    font-size: 12px;
     outline: none;
     text-decoration: none;
-    /* font-weight: bold; */
-    /* padding: 3px 0 9px 0; */
-}
-#categories article figcaption a .ani_button{
-    background: #E8F5E9;
-    border: none;
-    color: darkgreen;
-    font-size: 12px;
     font-weight: bold;
     padding: 3px 0 9px 0;
 }
+
 #categories article.last {
     padding-bottom: 28px;
     background-color: #FFF3E0;
