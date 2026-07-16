@@ -308,7 +308,10 @@ body {
     line-height: 1.4em;
     margin-bottom: 5px;
 }
-
+#categories article figcaption button{
+    border: #E8F5E9;
+    background-color: ;
+}
 #categories article figcaption button a {
     color: darkgreen;
     /* padding: 2px; */
