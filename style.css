@@ -309,8 +309,8 @@ body {
     margin-bottom: 5px;
 }
 #categories article figcaption button{
-    border: #E8F5E9;
-    background-color: ;
+    background-color: #E8F5E9;
+    border:none ;
 }
 #categories article figcaption button a {
     color: darkgreen;
