@@ -238,7 +238,7 @@ body {
         transition: transform 0.2s ease-in-out;
 }
 .ani_button:hover{
-
+    transform: scale(1.2);
 }
 #section2 article button a {
     color: white;
