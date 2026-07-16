@@ -264,24 +264,24 @@ body {
 
 }
 
-#categories .a , .ani_button{
+#categories .a{
     background-color: #E8F5E9;
     border:none ;
 }
 
-#categories .b, .ani_button {
+#categories .b {
     background-color: #E3F2FD;
 }
 
-#categories .c, .ani_button {
+#categories .c {
     background-color: #FFF8E1;
 }
 
-#categories .d, .ani_button {
+#categories .d{
     background-color: #FCE4EC;
 }
 
-#categories .e, .ani_button {
+#categories .e {
     background-color: #F1F8E9;
 }
 
