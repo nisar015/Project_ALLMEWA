@@ -277,11 +277,11 @@ body {
     background-color: #FFF8E1;
 }
 
-#categories #d {
+#categories .d,.ani_button {
     background-color: #FCE4EC;
 }
 
-#categories #e {
+#categories .e,.ani_button {
     background-color: #F1F8E9;
 }
 
