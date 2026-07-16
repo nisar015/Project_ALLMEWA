@@ -264,7 +264,7 @@ body {
 
 }
 
-#categories .a {
+#categories .a ,.ani_button{
     background-color: #E8F5E9;
     border:none ;
 }
