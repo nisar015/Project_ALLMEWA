@@ -418,7 +418,7 @@ body {
 /* The Zoom Animation Effect on Hover */
 .zoom-button:hover {
   /* Scales the button to 110% of its original size */
-  transform: scale(1.5); 
+  transform: scale(1.1); 
 }
 
 /* Optional: Shrinks slightly when clicked for a physical button feel */
