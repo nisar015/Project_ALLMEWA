@@ -235,7 +235,7 @@ body {
     background: darkgreen;
     cursor: pointer;
     border-radius: 5px;
-        transition: transform 0.2s ease-in-out;
+        transition: transform 0.2s ease-out;
 }
 .ani_button:hover{
     transform: scale(1.1);
