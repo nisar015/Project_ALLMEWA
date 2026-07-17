@@ -537,7 +537,7 @@ body {
     /* box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15); */
 }
 
-#section_last #members a {
+#section_last .members a {
     color: white;
     outline: none;
     text-decoration: none;
