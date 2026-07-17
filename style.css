@@ -523,6 +523,8 @@ body {
     background: darkgreen;
     font-family: sans-serif;
     font-size: 10px;
+        margin-bottom: 14px;
+    margin-top: 4px;
 }
 
 #section_last #members {
