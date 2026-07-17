@@ -74,13 +74,13 @@ body {
 }
 
 #header2 nav {
-    float: left;
-    margin: 0 25px 0 40px;;
+        float: left;
+    margin: 10px 0px 10px 17px;
 }
 
 #header2 nav ul {
     list-style: none;
-    padding: 41px;
+    padding: 30px;
 }
 
 #header2 nav ul li {
@@ -98,7 +98,7 @@ body {
 
 #header2 button {
     /* padding: 6px; */
-    margin: 33px 0px 6px 0;
+    margin: 30px 0px 6px 0;
     background: red;
     color: white;
     border: 1px solid;
