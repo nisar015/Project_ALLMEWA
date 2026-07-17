@@ -496,7 +496,7 @@ body {
     display: inline-block;
 }
 
-#section_last #diary_pub #sideba button {
+#section_last #diary_pub #sideba .VA {
     margin-bottom: 14px;
     margin-top: 4px;
 }
@@ -510,7 +510,7 @@ body {
     font-family: sans-serif;
     
 }
-#sideba #VA a{
+#sideba .VA a{
     outline: none;
     text-decoration: none;
 }
