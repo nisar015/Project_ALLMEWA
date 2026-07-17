@@ -544,7 +544,7 @@ body {
     font-family: sans-serif;
 }
 
-#section_last #members a figure img {
+#section_last .members a figure img {
     width: 55px;
     margin: 14px 45px 0 45px;
 }
