@@ -501,7 +501,7 @@ body {
     margin-top: 4px;
 }
 
-#sideba #VA{
+#sideba .VA{
     border: 1px solid lightgrey;
     border-radius: 6px;
     padding: 1px 6px 1px 5px;
