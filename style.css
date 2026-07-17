@@ -441,7 +441,7 @@ body {
 #section_last #gallery button a img{
     width: 134px;
     height: 90px;
-    padding: 16px 7px 4px 7px;
+    padding: 0 7px 4px 7px;
     border-radius: 10px;
 }
 
