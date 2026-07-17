@@ -527,7 +527,7 @@ body {
     margin-top: 4px;
 }
 
-#section_last #members {
+#section_last .members {
     float: left;
     width: 180px;
     background: green;
