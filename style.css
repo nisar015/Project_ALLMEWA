@@ -86,7 +86,7 @@ body {
 #header2 nav ul li {
     display: inline-block;
     margin: 0 30px 0 0;
-    
+    border: none;
 }
 
 #header2 button a {
