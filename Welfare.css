@@ -93,6 +93,9 @@ body {
     border: 1px solid;
     border-radius: 17px;
 }
+#p{
+    padding: 5px;
+}
 #container #y{
         padding: 25px;
     width: 530px;
