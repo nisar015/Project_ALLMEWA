@@ -95,6 +95,7 @@ body {
     color: black;
     margin-bottom: 20px;
     border: 1px solid;
+    border-radius: 17px;
 }
 #container #content {
     background: #E8F5E9;
