@@ -432,7 +432,7 @@ body {
 }
 
 /* Optional: Shrinks slightly when clicked for a physical button feel */
-.zoom-button:active {
+.zoom_button:active {
   transform: scale(0.80);
 }
 
