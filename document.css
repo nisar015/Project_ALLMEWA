@@ -130,7 +130,7 @@ body {
 #sec #TEXT{
       padding: 10px;
     font-family: sans-serif;
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 #sec table tbody tr td figcaption p{
     float: left;
