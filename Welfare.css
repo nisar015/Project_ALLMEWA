@@ -91,6 +91,7 @@ body {
     color: black;
     margin-bottom: 20px;
     border: 1px solid;
+    border-radius: 55px;
 }
 #container #y{
         padding: 25px;
@@ -101,12 +102,16 @@ body {
 #container article {
     width: 95%;
     height: 140px;
-    margin: 25px;
+    margin: 25px auto;
+    padding: 5px;
+    border-radius: 30px;
+    box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15);
 }
 
 #container article img {
     float: left;
     width: 100px;
+    padding: 22px 0 20px 20px;
     /* padding: 30px; */
 }
 
