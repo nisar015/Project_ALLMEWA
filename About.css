@@ -92,6 +92,7 @@ body {
 #container {
     width: 1420px;
     margin: 0 auto;
+    padding: 5px;
     background-color: white;
     color: black;
     margin-bottom: 20px;
