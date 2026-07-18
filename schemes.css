@@ -99,11 +99,13 @@ body {
     background: aliceblue;
 }
 #container #sec article{
-    width: 96%;
+    width: 71%;
     height: 130px;
     box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15);
     background: aliceblue;
     padding: 17px;
+    border-radius: 30px;
+    margin: 30px auto;
 }
 #container #sec article figure img{
     float: left;
