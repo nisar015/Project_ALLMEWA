@@ -16,6 +16,7 @@ body {
     overflow: auto;
     margin-bottom: 20px;
 }
+
 #logo_name {
     float: left;
 }
@@ -24,6 +25,7 @@ body {
     width: 255px;
     margin-left: 35px;
 }
+
 #header2 h2 {
     color: green;
     font-size: 32px;
@@ -41,18 +43,30 @@ body {
 }
 
 #header2 nav {
-    float: left;
-    margin: 0 0 0 81px;
+        float: left;
+    margin: 10px 0 10px 40px;
 }
-
+.ani_button{
+    padding: 5px;
+    margin: 14px 0 5px 0;
+    color: white;
+    /* background: darkgreen; */
+    cursor: pointer;
+    border-radius: 5px;
+        transition: transform 0.2s ease-in-out;
+}
+.ani_button:hover{
+    transform: scale(1.1);
+}
 #header2 nav ul {
     list-style: none;
-    padding: 41px;
+    padding: 30px;
 }
 
 #header2 nav ul li {
     display: inline-block;
     margin: 0 30px 0 0;
+    border: none;
 }
 
 #header2 button a {
@@ -64,7 +78,7 @@ body {
 
 #header2 button {
     /* padding: 6px; */
-    margin: 33px 0px 6px 0;
+    margin: 35px 0px 6px 0;
     background: red;
     color: white;
     border: 1px solid;
@@ -81,7 +95,6 @@ body {
     font-family: sans-serif;
     font-weight: normal;
 }
-
 #container {
     width: 1000px;
     /* height: 843px; */
