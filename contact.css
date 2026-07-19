@@ -78,12 +78,12 @@ body {
 
 #header2 button {
     /* padding: 6px; */
-    margin: 35px 0px 6px 0;
+    margin: 36px 0px 6px 0;
     background: red;
     color: white;
     border: 1px solid;
     border-radius: 4px;
-    padding: 7px 15px 6px 15px;
+    padding: 7px 15px 7px 15px;
 }
 
 #header2 nav ul li a {
