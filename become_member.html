@@ -71,7 +71,7 @@
         </section>
         <section id="sec_half">
             <h3>Membership Form</h3>
-            <form id="userForm">
+            <form>
                 <p id="p">Membership Type</p>
 
                 <input type="radio" id="apple" name="fruit" value="apple" checked>
@@ -81,22 +81,21 @@
                 <label for="banana">Life Member</label><br>
 
                 <p>Full Name</p>
-                <input type="text" id="username" name="username">
+                <input type="text" id="username1" name="username">
 
                 <p>Email Address</p>
-                <input type="text" id="useremail" name="username">
+                <input type="text" id="username2" name="username">
 
                 <p>Phone Number</p>
-                <input type="text" id="usernum" name="username">
+                <input type="text" id="username3" name="username">
 
                 <p>Designation</p>
                 <input type="text" id="username4" name="username">
 
                 <p>Office / Department</p>
-                <input type="text" id="username5" name="username">
-                <button type="submit">Become a Member</button> <!-- Add type="submit" here -->
-
+                <input type="text" id="username5" name="username">    
             </form>
+            <button onclick="alert('You puched me')">Submit Application</button>
 
         </section>
 
@@ -239,42 +238,13 @@
                 </a>
             </ul>
         </article>
-    </footer>
+    </footer> 
     <footer id="footer2">
         <p>@ 2026 ALLMEWA. All Rights Reserved</p>
         <p class="lst_p">Education | Welfare | Empowerment</p>
         <p class="lst_p">Designed with ❤️ for Minority Employees</p>
     </footer>
-    <script>
-        document.getElementById('userForm').addEventListener('submit', async function (e) {
-            e.preventDefault(); // Stop the default page reload immediately
-
-            const formData = new FormData(this);
-
-            // Disable the submit button so the user doesn't click it twice
-            const submitBtn = this.querySelector('button[type="submit"]');
-            submitBtn.disabled = true;
-            submitBtn.textContent = 'Saving...';
-
-            try {
-                // This awaits the response in the background WITHOUT freezing the browser UI
-                const response = await fetch('process.php', {
-                    method: 'POST',
-                    body: formData
-                });
-
-                const result = await response.text();
-                alert('Success!');
-            } catch (error) {
-                console.error('Error:', error);
-            } finally {
-                // Re-enable the button when done
-                submitBtn.disabled = false;
-                submitBtn.textContent = 'Submit';
-            }
-        });
-
-    </script>
 </body>
+
 
 </html>
