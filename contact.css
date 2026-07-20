@@ -138,6 +138,7 @@ body {
     padding: 25px;
 }
 #first_half article a{
+    color: black;
     outline: none;
     text-decoration: none;
 }
