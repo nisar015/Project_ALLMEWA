@@ -332,7 +332,6 @@ h2{
 
 .wave::after{
     content:"";
-
     position:absolute;
 
     width:110%;
