@@ -1,0 +1,179 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+body{
+
+    min-height:100vh;
+    overflow:hidden;
+
+}
+
+/* Background */
+
+.background{
+
+    position:relative;
+
+    width:100%;
+    height:100vh;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    background:
+    radial-gradient(circle at top left,#ffffff 0%,#f8fff5 40%,#edf8ec 100%);
+}
+
+/* Light dots */
+
+.background::before{
+
+    content:"";
+
+    position:absolute;
+
+    left:0;
+
+    top:0;
+
+    width:280px;
+
+    height:280px;
+
+    background-image:
+
+    radial-gradient(#b8dcb8 2px,transparent 2px);
+
+    background-size:18px 18px;
+
+    opacity:.35;
+}
+
+/* Bottom crowd shadow */
+
+.background::after{
+
+    content:"";
+
+    position:absolute;
+
+    bottom:95px;
+
+    left:0;
+
+    width:100%;
+
+    height:220px;
+
+    background:
+
+    radial-gradient(circle,#8ac78a22 0%,transparent 70%);
+
+}
+
+/* Login Card */
+
+.login-card{
+
+    width:470px;
+
+    background:#fff;
+
+    border-radius:20px;
+
+    padding:60px;
+
+    box-shadow:
+
+    0 15px 45px rgba(0,0,0,.15);
+
+    position:relative;
+
+    z-index:5;
+
+    text-align:center;
+
+}
+
+.login-card h1{
+
+    color:#0E6A3A;
+
+    margin-bottom:15px;
+
+}
+
+.login-card p{
+
+    color:#666;
+
+}
+
+/* Footer */
+
+.footer-wave{
+
+    position:absolute;
+
+    left:0;
+
+    bottom:0;
+
+    width:100%;
+
+    height:120px;
+
+    background:#0E6A3A;
+
+}
+
+/* First Wave */
+
+.footer-wave::before{
+
+    content:"";
+
+    position:absolute;
+
+    left:-5%;
+
+    top:-45px;
+
+    width:110%;
+
+    height:80px;
+
+    background:#F5C542;
+
+    border-radius:50%;
+
+}
+
+/* Second Wave */
+
+.footer-wave::after{
+
+    content:"";
+
+    position:absolute;
+
+    left:-5%;
+
+    top:-25px;
+
+    width:110%;
+
+    height:70px;
+
+    background:#146C43;
+
+    border-radius:50%;
+
+}
