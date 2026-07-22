@@ -53,7 +53,7 @@ body{
 #login_card{
 
     width:370px;
-
+    margin: 0 auto;
     background:#fff;
 
     border-radius:20px;
