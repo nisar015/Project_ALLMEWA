@@ -54,7 +54,7 @@ body{
 
 /* Login Card */
 
-.login_card{
+#login_card{
 
     width:370px;
 
@@ -70,7 +70,7 @@ body{
     z-index:10;
 
 }
-.logo-section img{
+#login_card img{
 
     width:80px;
 
