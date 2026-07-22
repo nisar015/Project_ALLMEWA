@@ -54,15 +54,15 @@ body{
 
 /* Login Card */
 
-.login-card{
+.login_card{
 
-    width:470px;
+    width:370px;
 
     background:#fff;
 
     border-radius:20px;
 
-    padding:35px;
+    padding:15px;
 
     box-shadow:
     0 15px 40px rgba(0,0,0,.15);
