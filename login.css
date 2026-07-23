@@ -21,8 +21,8 @@ body{
 
     overflow:hidden;
 
-    background:
-    radial-gradient(circle at top left,#ffffff,#eef8ee);
+    background:white;
+    /* radial-gradient(circle at top left,#ffffff,#eef8ee); */
 }
 
 /* Dotted Pattern */
@@ -53,9 +53,9 @@ body{
 #login_card{
 
     width:370px;
-    margin: 80px auto;
+    /* margin: 80px auto; */
     background:#fff;
-
+        margin: 0 590px;
     border-radius:20px;
 
     padding:15px;
@@ -66,9 +66,10 @@ body{
     z-index:10;
 
 }
-#login_card img{
+.container img{
 
-    width:80px;
+        width: 300px;
+    margin: 33px 618px 0 618px;
 
 }
 
