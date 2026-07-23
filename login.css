@@ -91,6 +91,10 @@ body{
 #login_card form a{
     float: right;
 }
+#checkbox{
+    float: left;
+    padding: 3px;
+}
 .logo-section h1{
 
     color:#0d6b3d;
