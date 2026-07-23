@@ -72,17 +72,21 @@ body{
 }
 #heading h1{
     color: darkgreen;
-
+    
 }
 #heading p{
     color: gray;
     font-size: 13px;
 }
 .container img{
-
-        width: 300px;
+    
+    width: 300px;
     margin: 33px 618px 0 618px;
 
+}
+#login_Card form input{
+        width: 100%;
+    padding: 5px;
 }
 #login_card form a{
     float: right;
