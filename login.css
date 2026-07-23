@@ -69,6 +69,11 @@ body{
 #login_card {
     text-align: center;
 }
+#login_card h1{
+    color: darkgreen;
+
+}
+
 .container img{
 
         width: 300px;
