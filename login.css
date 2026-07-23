@@ -66,14 +66,16 @@ body{
     z-index:10;
 
 }
-#login_card {
+#heading{
     text-align: center;
 }
 #login_card h1{
     color: darkgreen;
 
 }
+#login_card p{
 
+}
 .container img{
 
         width: 300px;
