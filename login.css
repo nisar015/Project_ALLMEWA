@@ -83,7 +83,9 @@ body{
     margin: 33px 618px 0 618px;
 
 }
-
+#login_card form a{
+    float: right;
+}
 .logo-section h1{
 
     color:#0d6b3d;
