@@ -74,7 +74,8 @@ body{
 
 }
 #heading p{
-
+    color: gray;
+    font-size: 13px;
 }
 .container img{
 
