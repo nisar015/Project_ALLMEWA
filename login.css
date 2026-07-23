@@ -6,7 +6,7 @@
 }
 
 body{
-
+    padding: 0;
     background:#f5f9f5;
 
 }
@@ -65,6 +65,9 @@ body{
     position: absolute;
     z-index:10;
 
+}
+#login_card {
+    text-align: center;
 }
 .container img{
 
