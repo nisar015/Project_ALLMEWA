@@ -93,8 +93,9 @@ body{
 #login_card form a{
     float: right;
 }
-
-
+form .p{
+    margin: 0 40px;
+}
 .logo-section h1{
 
     color:#0d6b3d;
