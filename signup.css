@@ -52,7 +52,8 @@ body{
 
 }
 .container a img{
-    width: 150px;
+    width: 300px;
+    margin: 20px 618px 0 618px;
 }
 #signup_card{
         width: 370px;
