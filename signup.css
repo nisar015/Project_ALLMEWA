@@ -18,7 +18,6 @@ body{
     radial-gradient(circle at top left,#ffffff,#eef8ee);
 }
 .container::before{
-
     content:"";
 
     position:absolute;
