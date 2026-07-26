@@ -68,6 +68,10 @@ body{
 #header h1{
     color: darkgreen;
 }
+#header p{
+    color: gray;
+}
+
 .logo{
     text-align:center;
 
