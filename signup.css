@@ -65,6 +65,9 @@ body{
 #header{
     text-align: center;
 }
+#header h1{
+    color: darkgreen;
+}
 .logo{
     text-align:center;
 
