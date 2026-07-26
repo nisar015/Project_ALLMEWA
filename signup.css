@@ -71,7 +71,12 @@ body{
 #header p{
     color: gray;
 }
-
+form .input{
+    width: 100%;
+    padding: 7px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
 .logo{
     text-align:center;
 
