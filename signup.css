@@ -17,7 +17,6 @@ body{
     background:
     radial-gradient(circle at top left,#ffffff,#eef8ee);
 }
-
 /* Dotted Background */
 
 .container::before{
