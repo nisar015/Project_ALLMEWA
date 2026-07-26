@@ -62,6 +62,9 @@ body{
     position: absolute;
     z-index: 10;
 }
+#header{
+    text-align: center;
+}
 .logo{
     text-align:center;
 
