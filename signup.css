@@ -73,6 +73,15 @@ form .button{
     background: darkgreen;
     border-radius: 10px;
 }
+form .F_G{
+    width: 100%;
+    padding: 9px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: white;
+    background: white;
+    border-radius: 10px;
+}
 .logo{
     text-align:center;
 
