@@ -59,6 +59,10 @@ form .input{
     margin-top: 5px;
     margin-bottom: 10px;
 }
+form .first_half,form .sec_half{
+    width: 50%;
+    float: left;
+}
 .logo{
     text-align:center;
 
