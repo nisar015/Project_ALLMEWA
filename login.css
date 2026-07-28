@@ -114,7 +114,8 @@ form .F_G{
 }
 
 form .pp{
-    margin: 0 160px
+    margin: 0 160px;
+    clear: both;
 }
 form .p{
     margin: 0 40px;
