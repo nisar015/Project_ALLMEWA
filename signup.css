@@ -30,19 +30,18 @@ body{
     opacity:.35;
 }
 #signup_card{
-    width: 450px;
-    /* margin: 80px auto; */
+    width: 470px;
     background: #fff;
-    margin: 0 590px;
+    margin: 0 535px;
     border-radius: 20px;
-    padding: 15px;
+    padding: 10px;
     box-shadow: 0 15px 40px rgba(0, 0, 0, .15);
     position: absolute;
-    z-index: 10;
+    z-index: 3;
 }
 .container a img{
     width: 300px;
-    margin: 20px 618px 0 618px;
+    margin: 10px 618px 0 618px;
 }
 #header{
     text-align: center;
@@ -54,30 +53,30 @@ body{
     color: gray;
 }
 form .input{
-    width: 100%;
+       width: 100%;
     padding: 5px;
-    margin-top: 5px;
-    margin-bottom: 10px;
+    margin-top: 2px;
+    margin-bottom: 2px;
 }
 form .first_half,form .sec_half{
     width: 50%;
     float: left;
-    padding: 5px;
+    padding: 3px;
 }
 form .button{
-    width: 100%;
-    padding: 9px;
+        width: 100%;
+    padding: 5px;
     margin-top: 5px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     color: white;
     background: darkgreen;
     border-radius: 10px;
 }
 form .F_G{
     width: 100%;
-    padding: 9px;
+    padding: 5px;
     margin-top: 5px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     color: black;
     background: white;
     border-radius: 10px;
@@ -314,7 +313,7 @@ h2{
 
     width:100%;
 
-    height:120px;
+    height:15px;
 
     background:#0d6b3d;
 
