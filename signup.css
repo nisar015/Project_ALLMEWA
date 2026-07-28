@@ -92,7 +92,12 @@ form .F_G {
     background: white;
     border-radius: 10px;
 }
-
+form a{
+    float: right;
+    margin-right: 85px;
+    outline: none;
+    text-decoration: none;
+}
 .logo {
     text-align: center;
 
