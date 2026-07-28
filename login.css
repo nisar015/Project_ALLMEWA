@@ -102,6 +102,7 @@ form a .button{
     color: white;
     background: darkgreen;
     border-radius: 10px;
+    cursor: pointer;
 }
 form .F_G{
     width: 100%;
