@@ -107,7 +107,7 @@ form #login{
     float: left;
     margin-left: 110px;
 }
-form a{
+form #login a {
     float: right;
     margin-right: 85px;
     outline: none;
