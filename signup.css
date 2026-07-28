@@ -92,7 +92,7 @@ form .F_G {
     background: white;
     border-radius: 10px;
 }
-form {
+form #login{
 
     float: left;
     margin-left: 110px;
