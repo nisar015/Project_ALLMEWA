@@ -94,7 +94,7 @@ body{
 #login_card form a{
     float: right;
 }
-form a .button{
+form .button{
     width: 100%;
     padding: 9px;
     margin-top: 5px;
@@ -103,7 +103,7 @@ form a .button{
     background: darkgreen;
     border-radius: 10px;
 }
-form a .F_G{
+form .F_G{
     width: 100%;
     padding: 9px;
     margin-top: 5px;
