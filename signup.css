@@ -89,6 +89,7 @@ form .button {
     color: white;
     background: darkgreen;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 form a .F_G{
