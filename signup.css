@@ -75,6 +75,9 @@ form .sec_half {
     float: left;
     padding: 3px;
 }
+form #or{
+    text-align: center;
+}
 form .clr_b{
     clear: both;
 }
