@@ -75,7 +75,9 @@ form .sec_half {
     float: left;
     padding: 3px;
 }
-
+form .clr_b{
+    clear: both;
+}
 form .button {
     width: 100%;
     padding: 5px;
