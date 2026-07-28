@@ -41,7 +41,10 @@ body {
     position: absolute;
     z-index: 3;
 }
-
+#signup_card #header{
+    padding: 0;
+    margin-bottom: 10px;
+}
 .container a img {
     width: 300px;
     margin: 10px 618px 0 618px;
