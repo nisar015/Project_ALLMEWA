@@ -92,6 +92,11 @@ form .F_G {
     background: white;
     border-radius: 10px;
 }
+form {
+
+    float: left;
+    margin-left: 110px;
+}
 form a{
     float: right;
     margin-right: 85px;
