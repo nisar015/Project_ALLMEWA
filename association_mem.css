@@ -95,7 +95,16 @@ body {
     font-family: sans-serif;
     font-weight: normal;
 }
-
+#container {
+    width: 1420px;
+    margin: 0 auto;
+    padding: 5px;
+    background-color: white;
+    color: black;
+    margin-bottom: 20px;
+    border: 1px solid;
+    border-radius: 17px;
+}
 
 #footer1 {
     width: 1430px;
