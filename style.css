@@ -321,8 +321,13 @@ body {
     /* background-color: #E8F5E9; */
     border: none;
 }
+#categories article figcaption .last{
+
+    background-color: #FFF3E0;
+}
 
 #categories article figcaption button a {
+    background-color: #FFF3E0;
     color: darkgreen;
     /* padding: 2px; */
     font-size: 12px;
