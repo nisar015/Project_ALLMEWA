@@ -327,7 +327,7 @@ body {
 }
 
 #categories article figcaption button a {
-    background-color: #FFF3E0;
+    /* background-color: #FFF3E0; */
     color: darkgreen;
     /* padding: 2px; */
     font-size: 12px;
