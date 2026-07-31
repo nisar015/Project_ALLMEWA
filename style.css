@@ -242,7 +242,7 @@ body {
 }
 
 .ani_button:hover {
-    transform: scale(1.1);
+    transform: scale(0.9);
 }
 
 #section2 article button a {
