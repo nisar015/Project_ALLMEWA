@@ -815,6 +815,9 @@ body {
         float: none;
         margin: 0;
     }
+    #footer1 ul a{
+        list-style: none;
+    }
     #quick_links ul{
             padding: 5px;
     }
