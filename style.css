@@ -607,7 +607,7 @@ body {
     #header1 #h1group {
         display: none;
     }
-
+    
     #header1,
     #container,
     #hon_mem,
@@ -778,7 +778,7 @@ body {
         padding: 4px;
     }
 
-    #section_last #gallery img {
+    #section_last #gallery button.zoom_button a img {
         width: 100%;
     height: 120px;
     margin: 0 auto;
