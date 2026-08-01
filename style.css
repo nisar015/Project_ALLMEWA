@@ -687,8 +687,9 @@ body {
     }
 
     #container #hon_mem #section1 article img {
-        width: 45%;
-        margin: 10px 116px;
+                width: 45%;
+        display: block;
+        margin: 0 auto;
         float: none;
         padding: 0;
     }
@@ -696,7 +697,7 @@ body {
     #hon_mem #section1 article figure figcaption {
         float: none;
         width: 40%;
-        margin-left: 130px;
+        margin: 0 auto;
     }
 
     #hon_mem #section1 article figure figcaption h4,
@@ -705,7 +706,8 @@ body {
     }
 
     #hon_mem #section1 article figure figcaption button {
-        margin-left: 45px;
+        display: block;
+        margin: 0 auto;
     }
 
     #hon_mem #section2 {
@@ -784,7 +786,9 @@ body {
         float: none;
         margin-right: 0;
     }
-
+    #section_last .members{
+        margin: 0 70px;
+    }
     #section_last #members a figure img {
         width: 52%;
         margin: 0px 78px;
@@ -806,8 +810,12 @@ body {
     #footer1 #quick_links,
     #footer1 #imp_doc,
     #footer1 #contact {
+        text-align: center;
         width: 100%;
         float: none;
         margin: 0;
+    }
+    #quick_links ul{
+            padding: 5px;
     }
 }
