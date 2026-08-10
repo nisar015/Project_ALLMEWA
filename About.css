@@ -144,7 +144,12 @@ body {
     border-radius: 275px;
 }
 .sidebar h1{
-    
+    position: absolute;
+    right: 29px;
+    top: 315px;
+    font-size: 70px;
+    color: white;
+    font-family: sans-serif;
 }
 .sidebar::before{
     content: "";
