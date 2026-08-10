@@ -143,6 +143,9 @@ body {
     background: forestgreen;
     border-radius: 275px;
 }
+.sidebar h1{
+    
+}
 .sidebar::before{
     content: "";
     position: absolute;
