@@ -145,9 +145,9 @@ body {
 }
 .sidebar h1{
     position: absolute;
-    right: 29px;
-    top: 315px;
-    font-size: 70px;
+    right: 12px;
+    top: 310px;
+    font-size: 90px;
     color: white;
     font-family: sans-serif;
 }
