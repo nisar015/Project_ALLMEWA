@@ -138,6 +138,10 @@ body {
     position: absolute;
     right: 0;
     top: 0;
+    float: left;
+    width: 38%;
+    height: 703px;
+    background: forestgreen;
 }
 #values {
     float: left;
