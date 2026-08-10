@@ -136,17 +136,22 @@ body {
 }
 .sidebar{
     position: absolute;
-    right: 46px;
-    top: 159px;
+    right: 55px;
     float: left;
-    width: 37%;
-    height: 703px;
+    width: 54%;
+    height: 720px;
     background: forestgreen;
+    border-radius: 275px;
 }
 .sidebar::before{
+    content: "";
     position: absolute;
-    top: 0;
-    right: 0;
+    width: 102%;
+    height: 753px;
+    right: -1%;
+    top: -8px;
+    background: darkgreen;
+    border-radius: 385px
 }
 #values {
     float: left;
