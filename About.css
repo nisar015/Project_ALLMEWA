@@ -136,8 +136,8 @@ body {
 }
 #sidebar{
     position: absolute;
-    right: 0;
-    top: 0;
+    right: 31px;
+    top: 159px;
     float: left;
     width: 38%;
     height: 703px;
