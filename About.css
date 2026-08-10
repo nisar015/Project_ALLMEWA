@@ -143,6 +143,9 @@ body {
     height: 703px;
     background: forestgreen;
 }
+#sidebar::after{
+    position: absolute;
+}
 #values {
     float: left;
     overflow: auto;
