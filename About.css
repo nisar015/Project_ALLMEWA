@@ -136,6 +136,7 @@ body {
 }
 #sidebar{
     position: absolute;
+    right: 0;
 }
 #values {
     float: left;
