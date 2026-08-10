@@ -145,6 +145,7 @@ body {
 }
 .sidebar::before{
     position: absolute;
+    top: 0;
 }
 #values {
     float: left;
