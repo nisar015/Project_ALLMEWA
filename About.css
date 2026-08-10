@@ -112,6 +112,8 @@ body {
 }
 #container #content {
     background: #E8F5E9;
+    float: left;
+    width: 60%;
 }
 
 #content figcaption {
