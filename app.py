@@ -68,5 +68,30 @@ def register():
         cursor.close()
 
 
+@app.route("/login", methods=["POST"])
+def login():
+
+    email = request.form.get("email")
+    password = request.form.get("password")
+
+    cursor = mydb.cursor()
+
+    sql = """
+        SELECT * FROM users
+        WHERE email = %s AND password = %s
+    """
+
+    cursor.execute(sql, (email, password))
+
+    user = cursor.fetchone()
+
+    cursor.close()
+
+    if user:
+        return "Login successful!"
+
+    return "Invalid email or password!"
+
+
 if __name__ == "__main__":
     app.run(debug=True)
