@@ -69,7 +69,6 @@ def register():
     finally:
         cursor.close()
 
-
 @app.route("/login", methods=["POST"])
 def login():
 
@@ -79,7 +78,8 @@ def login():
     cursor = mydb.cursor()
 
     sql = """
-        SELECT * FROM users
+        SELECT id, name, email
+        FROM users
         WHERE email = %s AND password = %s
     """
 
@@ -90,10 +90,15 @@ def login():
     cursor.close()
 
     if user:
-        return "Login successful!"
+        # Save user information in session
+        session["user_id"] = user[0]
+        session["username"] = user[1]
+        session["email"] = user[2]
+
+        # Go back to homepage
+        return redirect("/")
 
     return "Invalid email or password!"
-
 
 if __name__ == "__main__":
     app.run(debug=True)
