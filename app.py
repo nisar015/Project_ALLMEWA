@@ -14,6 +14,11 @@ mydb = mysql.connector.connect(
 
 @app.route("/")
 def home():
+    return render_template("index.html")
+
+
+@app.route("/signup")
+def signup():
     return render_template("signup.html")
 
 
@@ -28,11 +33,9 @@ def register():
     membership = request.form.get("browser")
     terms = request.form.get("checkbox")
 
-    # Check password
     if password != confirmpassword:
         return "Passwords do not match!"
 
-    # Check Terms & Conditions
     if not terms:
         return "Please accept Terms & Conditions."
 
