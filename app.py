@@ -1,7 +1,9 @@
 from flask import Flask, request, render_template
+from flask import Flask, request, render_template, session, redirect
 import mysql.connector
 
 app = Flask(__name__)
+app.secret_key = "allmewa-secret-key"
 
 mydb = mysql.connector.connect(
     host="127.0.0.1",
