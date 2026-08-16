@@ -55,18 +55,8 @@
                 <a>
                     <li class="line"> | </li>
                 </a>
-                {% if session.get("username") %}
-
-    <span>Hi, {{ session["username"] }}</span>
-
-    <a href="/logout">Logout</a>
-
-{% else %}
-
-    <a href="/login">Login</a>
-
-{% endif %}
-                {% comment %} <a href="#">
+                <!-- <a href=""></a> -->
+                <a href="#">
                     <li class="h1_mid">
                         <a href="./login.html">Login</a> / <a href="./signup.html">Signup</a>
                     </li>
