@@ -540,7 +540,7 @@ body {
     margin-top: 4px;
 }
 
-#section_last #mems article .members {
+#section_last #mems{
     float: left;
     width: 180px;
     background: green;
