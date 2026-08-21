@@ -265,7 +265,7 @@ body {
     float: left;
     padding-bottom: 10px;
     box-shadow: inset 1px 1px 5px 0px rgba(0, 0, 0, 0.15);
-    margin-right: 26px;
+    margin-right: 25px;
     border-radius: 7px;
 }
 
@@ -540,7 +540,7 @@ body {
     margin-top: 4px;
 }
 
-#section_last #mems{
+#section_last .members{
     float: left;
     width: 180px;
     background: green;
