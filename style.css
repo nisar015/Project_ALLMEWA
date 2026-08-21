@@ -822,6 +822,7 @@ body {
     #footer2 p {
         float: none;
         /* margin: 0; */
+        text-align: center;
     }
 
     #footer1 #quick_links,
