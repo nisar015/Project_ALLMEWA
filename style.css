@@ -570,7 +570,7 @@ body {
     font-size: 13px;
 }
 
-#section_last .members a figure figcaption p {
+#section_last #mems .members a figure figcaption p {
     font-size: 11px;
     margin: 6px 16px 34px 12px;
 }
