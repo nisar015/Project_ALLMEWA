@@ -821,7 +821,7 @@ body {
 
     #footer2 p {
         float: none;
-        margin: 0;
+        /* margin: 0; */
     }
 
     #footer1 #quick_links,
