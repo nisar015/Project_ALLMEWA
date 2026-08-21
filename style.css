@@ -787,8 +787,15 @@ body {
         width: 87%;
     margin: 10px 10px;
     }
+    #gallery #h3_button{
+        display: block;
+    }
     #gallery #h3_button h3 {
         width: 50%;
+        margin: 10px 94px 0 0;
+    }
+    .ani_button{
+        margin: 10px 0 0 0;
     }
 
     #section_last #diary_pub {
@@ -814,7 +821,7 @@ body {
 
     #footer2 p {
         float: none;
-        margin: 0;
+        /* margin: 0; */
     }
 
     #footer1 #quick_links,
