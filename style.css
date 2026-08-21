@@ -850,6 +850,7 @@ body {
     #footer2 p {
         float: none;
         /* margin: 0; */
+        padding: 5px;
         text-align: center;
     }
 
