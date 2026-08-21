@@ -566,7 +566,7 @@ body {
     margin: 4px 8px 3px 10px;
 }
 
-#section_last .members a figure figcaption h3 {
+#section_last #mems .members a figure figcaption h3 {
     font-size: 13px;
 }
 
