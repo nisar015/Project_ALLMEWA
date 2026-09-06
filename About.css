@@ -260,11 +260,17 @@ body {
         float: none;
     }
 
+    #logo_name a img {
+        width: 100%;
+        margin: 0 auto;
+    }
+
     #header2 nav {
         float: none;
         margin: 0;
     }
-    #header2 nav ul{
+
+    #header2 nav ul {
         padding: 0;
     }
 
@@ -295,31 +301,36 @@ body {
         width: 100%;
         padding: 0;
     }
-    #content figcaption p{
+
+    #content figcaption p {
         font-size: 15px;
     }
-    #values{
+
+    #values {
         float: none;
         overflow: unset;
     }
-    #values h3{
+
+    #values h3 {
         padding: 20px;
-    text-align: center;
+        text-align: center;
     }
 
-    #values article{
-            width: 100%;
-    float: none;
-    margin: 0;
-    padding: 0;
+    #values article {
+        width: 100%;
+        float: none;
+        margin: 0;
+        padding: 0;
     }
-    #values article figure img{
-            width: 100%;
-    margin: 0;
+
+    #values article figure img {
+        width: 100%;
+        margin: 0;
     }
-    #container .sidebar{
+
+    #container .sidebar {
         display: none;
-        position:absolute;
+        position: absolute;
         opacity: 1;
         height: 10px;
         /* position;
@@ -328,40 +339,49 @@ body {
         right: 0;
         height: 0; */
     }
-    #footer1{
-        width:100%;
+
+    #footer1 {
+        width: 100%;
         margin: 0;
         border: none;
         text-align: center;
     }
-    #footer1 #quick_links,#footer1 #imp_doc,#footer1 #contact{
+
+    #footer1 #quick_links,
+    #footer1 #imp_doc,
+    #footer1 #contact {
         width: 100%;
         float: none;
         /* margin: 0; */
-        margin:5px 10px;
-    border: none;
+        margin: 5px 10px;
+        border: none;
     }
-    #quick_links ul,#imp_doc ul,#contact ul{
+
+    #quick_links ul,
+    #imp_doc ul,
+    #contact ul {
         list-style: none;
         padding: 5px;
     }
-    
-    #footer2{
+
+    #footer2 {
         width: 100%;
-    overflow: unset;
+        overflow: unset;
     }
-    #footer2 p{
+
+    #footer2 p {
         width: 100%;
-    float: none;
-    margin: 0;
-    padding: 0;
-    text-align: center;
+        float: none;
+        margin: 0;
+        padding: 0;
+        text-align: center;
     }
-    #footer2 .lst_p{
+
+    #footer2 .lst_p {
         width: 100%;
-    float: none;
-    margin: 0;
-    padding: 0;
-    text-align: center;
+        float: none;
+        margin: 0;
+        padding: 0;
+        text-align: center;
     }
 }
