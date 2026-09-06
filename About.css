@@ -239,4 +239,10 @@ body {
         float: none;
         margin: 0;
      }
+     #header2 nav ul li.ani_button{
+        display: block;
+        margin: 0;
+        text-align: center;
+     }
+     
 }
