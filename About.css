@@ -257,6 +257,7 @@ body {
     float: none;
      }
      #content figcaption{
-        
+        width: 100%;
+    padding: 0;
      }
 }
