@@ -308,8 +308,10 @@ body {
     float: none;
     margin: 0;
     }
-    #container .sidebar::before{
-        content: "s";
+    #container .sidebar{
+        float: none;
+        right: 0;
+        height: 0;
     }
     #footer1 #quick_links,#footer1 #imp_doc,#footer1 #contact{
         width: 100%;
