@@ -318,4 +318,8 @@ body {
         width: 100%;
     border: none;
     }
+    #footer2{
+        width: 100%;
+    overflow: unset;
+    }
 }
