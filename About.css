@@ -335,6 +335,9 @@ body {
     #quick_links ul{
         list-style: none;
     }
+    #imp_doc ul{
+        list-style: none;
+    }
     #footer2{
         width: 100%;
     overflow: unset;
