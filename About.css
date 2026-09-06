@@ -232,5 +232,11 @@ body {
     margin: 0 0 0 246px;
 }
 @media screen and (max-width:426px) {
-     
+     #header2 #logo_name{
+        float: none;
+     }
+     #header2 nav{
+        float: none;
+        margin: 0;
+     }
 }
