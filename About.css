@@ -334,6 +334,7 @@ body {
     }
     #quick_links ul,#imp_doc ul,#contact ul{
         list-style: none;
+        padding: 5px;
     }
     
     #footer2{
