@@ -332,12 +332,10 @@ body {
         margin: 0;
     border: none;
     }
-    #quick_links ul{
+    #quick_links ul,#imp_doc ul,#contact ul{
         list-style: none;
     }
-    #imp_doc ul{
-        list-style: none;
-    }
+    
     #footer2{
         width: 100%;
     overflow: unset;
