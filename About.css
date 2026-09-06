@@ -307,4 +307,15 @@ body {
     float: none;
     margin: 0;
     }
+    #container .sidebar{
+        width: 100%;
+    position: fixed;
+    float: none;
+    height: 35px;
+    margin: 0;
+    }
+    #footer1{
+        width: 100%;
+    border: none;
+    }
 }
