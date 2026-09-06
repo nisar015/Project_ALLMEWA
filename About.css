@@ -309,7 +309,7 @@ body {
     margin: 0;
     }
     #container .sidebar::before{
-        display: none;
+        content: "s";
     }
     #footer1 #quick_links,#footer1 #imp_doc,#footer1 #contact{
         width: 100%;
