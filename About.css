@@ -308,6 +308,7 @@ body {
             width: 100%;
     float: none;
     margin: 0;
+    padding: 0;
     }
     #container .sidebar{
         display: none;
