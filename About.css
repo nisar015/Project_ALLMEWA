@@ -329,4 +329,11 @@ body {
     padding: 0;
     text-align: center;
     }
+    #footer2 .lst_p{
+        width: 100%;
+    float: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    }
 }
