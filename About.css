@@ -310,6 +310,10 @@ body {
     margin: 0;
     }
     #container .sidebar{
+        display: none;
+        position:absolute;
+        opacity: 1;
+        height: 10px;
         /* position;
         width: 0;
         float: none;
