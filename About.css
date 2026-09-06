@@ -321,6 +321,9 @@ body {
         margin: 0;
     border: none;
     }
+    #quick_links ul{
+        list-style: none;
+    }
     #footer2{
         width: 100%;
     overflow: unset;
