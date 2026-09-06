@@ -43,21 +43,24 @@ body {
 }
 
 #header2 nav {
-        float: left;
+    float: left;
     margin: 10px 0 10px 40px;
 }
-.ani_button{
+
+.ani_button {
     padding: 5px;
     margin: 14px 0 5px 0;
     color: white;
     /* background: darkgreen; */
     cursor: pointer;
     border-radius: 5px;
-        transition: transform 0.2s ease-in-out;
+    transition: transform 0.2s ease-in-out;
 }
-.ani_button:hover{
+
+.ani_button:hover {
     transform: scale(1.1);
 }
+
 #header2 nav ul {
     list-style: none;
     padding: 30px;
@@ -96,9 +99,10 @@ body {
     font-weight: normal;
 }
 
-#p{
+#p {
     padding: 5px;
 }
+
 #container {
     width: 1420px;
     margin: 0 auto;
@@ -110,27 +114,32 @@ body {
     border-radius: 17px;
     overflow: auto;
 }
+
 #container #content {
     background: #E8F5E9;
     float: left;
     width: 60%;
 }
+
 #content figcaption {
     width: 50%;
     padding: 60px;
 }
+
 #content figcaption h3 {
     color: darkgreen;
     font-family: sans-serif;
     font-size: 22px;
     padding: 5px;
 }
+
 #content figcaption p {
     font-size: 18px;
     font-family: sans-serif;
     padding: 5px;
 }
-.sidebar{
+
+.sidebar {
     position: absolute;
     right: 55px;
     float: left;
@@ -139,7 +148,8 @@ body {
     background: forestgreen;
     border-radius: 275px;
 }
-.sidebar h1{
+
+.sidebar h1 {
     position: absolute;
     right: 12px;
     top: 310px;
@@ -147,7 +157,8 @@ body {
     color: white;
     font-family: sans-serif;
 }
-.sidebar::before{
+
+.sidebar::before {
     content: "";
     position: absolute;
     width: 102%;
@@ -157,10 +168,12 @@ body {
     background: darkgreen;
     border-radius: 385px
 }
+
 #values {
     float: left;
     overflow: auto;
 }
+
 #values article {
     width: 20%;
     float: left;
@@ -169,16 +182,19 @@ body {
     border-radius: 20px;
     padding: 5px;
 }
-#values article figure figcaption h2.a{
+
+#values article figure figcaption h2.a {
     margin: 0 100px;
 }
-#values article figure figcaption h2.b{
+
+#values article figure figcaption h2.b {
     margin: 0 79px;
 }
 
 #values article figure figcaption p {
     margin: 4px 75px 4px 91px;
 }
+
 #values h3 {
     color: darkgreen;
     font-size: 22px;
@@ -190,11 +206,13 @@ body {
     width: 90px;
     margin: 0 97px;
 }
+
 #footer1 {
     width: 1430px;
     margin: 0 auto;
     border: 1px solid;
 }
+
 #footer1 #quick_links,
 #footer1 #imp_doc,
 #footer1 #contact {
@@ -202,6 +220,7 @@ body {
     width: 376px;
     margin: 10px 50px;
 }
+
 #footer1 ul a {
     color: white;
     width: 186px;
@@ -212,10 +231,12 @@ body {
     margin: 5px 0 0 0;
     font-family: sans-serif;
 }
+
 #footer1 article ul h4 {
     font-family: sans-serif;
     margin-bottom: 6px;
 }
+
 #footer2 {
     overflow: auto;
     clear: both;
@@ -223,41 +244,53 @@ body {
     background: black;
     padding: 4px;
 }
+
 #footer2 p {
     width: 21%;
     float: left;
     margin: 0px 6px 0 59px;
 }
+
 #footer2 .lst_p {
     margin: 0 0 0 246px;
 }
+
 @media screen and (max-width:426px) {
-     #header2 #logo_name{
+    #header2 #logo_name {
         float: none;
-     }
-     #header2 nav{
+    }
+
+    #header2 nav {
         float: none;
         margin: 0;
-     }
-     #header2 nav ul li.ani_button{
+    }
+    #header2 nav ul{
+        padding: 0;
+    }
+
+    #header2 nav ul li.ani_button {
         display: block;
         margin: 0;
         text-align: center;
-     }
-     #header2 button{
+    }
+
+    #header2 button {
         display: block;
-    margin: 0 auto;
-     }
-     #container {
-            width: 100%;
-    margin: 0;
-     }
-     #container #content {
+        margin: 0 auto;
+    }
+
+    #container {
         width: 100%;
-    float: none;
-     }
-     #content figcaption{
+        margin: 0;
+    }
+
+    #container #content {
         width: 100%;
-    padding: 0;
-     }
+        float: none;
+    }
+
+    #content figcaption {
+        width: 100%;
+        padding: 0;
+    }
 }
