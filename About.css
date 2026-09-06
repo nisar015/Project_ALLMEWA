@@ -296,4 +296,9 @@ body {
     #values{
         float: none;
     }
+    #values article{
+            width: 100%;
+    float: none;
+    margin: 0;
+    }
 }
