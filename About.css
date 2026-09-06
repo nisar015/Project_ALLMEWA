@@ -296,7 +296,11 @@ body {
     #values{
         float: none;
     }
-    
+    #values h3{
+        padding: 20px;
+    text-align: center;
+    }
+
     #values article{
             width: 100%;
     float: none;
