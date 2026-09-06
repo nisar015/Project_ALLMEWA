@@ -308,12 +308,8 @@ body {
     float: none;
     margin: 0;
     }
-    #container .sidebar{
-        width: 100%;
-    position: fixed;
-    float: none;
-    height: 35px;
-    margin: 0;
+    #container .sidebar::before{
+        display: none;
     }
     #footer1 #quick_links,#footer1 #imp_doc,#footer1 #contact{
         width: 100%;
