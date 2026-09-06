@@ -310,11 +310,11 @@ body {
     margin: 0;
     }
     #container .sidebar{
-        /* position; */
+        /* position;
         width: 0;
         float: none;
         right: 0;
-        height: 0;
+        height: 0; */
     }
     
     #footer1 #quick_links,#footer1 #imp_doc,#footer1 #contact{
