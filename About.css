@@ -315,9 +315,7 @@ body {
         right: 0;
         height: 0;
     }
-    #container .sidebar::before{
-        content: "s";
-    }
+    
     #footer1 #quick_links,#footer1 #imp_doc,#footer1 #contact{
         width: 100%;
         float: none;
