@@ -310,6 +310,10 @@ body {
     margin: 0;
     padding: 0;
     }
+    #values article figure img{
+            width: 100%;
+    margin: 0;
+    }
     #container .sidebar{
         display: none;
         position:absolute;
