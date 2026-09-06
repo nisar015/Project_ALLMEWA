@@ -315,8 +315,10 @@ body {
     height: 35px;
     margin: 0;
     }
-    #footer1{
+    #footer1,#footer1 #imp_doc,#footer1 #contact{
         width: 100%;
+        float: none;
+        margin: 0;
     border: none;
     }
     #footer2{
