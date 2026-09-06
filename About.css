@@ -322,4 +322,11 @@ body {
         width: 100%;
     overflow: unset;
     }
+    #footer2 p{
+        width: 100%;
+    float: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    }
 }
