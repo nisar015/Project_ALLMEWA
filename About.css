@@ -295,6 +295,7 @@ body {
     }
     #values{
         float: none;
+        overflow: unset;
     }
     #values h3{
         padding: 20px;
