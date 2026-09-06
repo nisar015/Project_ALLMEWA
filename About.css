@@ -244,5 +244,9 @@ body {
         margin: 0;
         text-align: center;
      }
+     #header2 button{
+        display: block;
+    margin: 0 auto;
+     }
      
 }
